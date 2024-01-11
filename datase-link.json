@@ -1,0 +1,33 @@
+{
+    "links": [
+      {
+        "name": "museum_list",
+        "link": "https://data.culture.gouv.fr/explore/dataset/liste-et-localisation-des-musees-de-france/api/?disjunctive.region_administrative&disjunctive.departement"
+      },
+      {
+        "name": "museum_attendance",
+        "link": "https://data.culture.gouv.fr/explore/dataset/liste-et-localisation-des-musees-de-france/api/?disjunctive.region_administrative&disjunctive.departement"
+      },
+      {
+        "name": "cinema_list_and_activity",
+        "link": "https://data.culture.gouv.fr/explore/dataset/etablissements-cinematographiques/api/"
+      },
+      {
+        "name": "cinema_attendance",
+        "link": "https://data.culture.gouv.fr/explore/dataset/frequentation-dans-les-salles-de-cinema/api/?disjunctive.annee"
+      },
+      {
+        "name": "educational_establishment",
+        "link": "https://www.data.gouv.fr/fr/datasets/adresse-et-geolocalisation-des-etablissements-denseignement-du-premier-et-second-degres-1/"
+      },
+      {
+        "name": "property_value",
+        "link": "https://www.data.gouv.fr/fr/datasets/demandes-de-valeurs-foncieres/"
+      },
+      {
+        "name": "property_value_api",
+        "link": "https://api.gouv.fr/les-api/api-donnees-foncieres"
+      }
+    ]
+  }
+  
