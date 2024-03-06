@@ -1,2 +1,4 @@
 pandas
-zipfile
+requests
+matplotlib
+seaborn
