@@ -10,8 +10,9 @@ def parse_data():
     - code_postal_uai : the postal code of the school
     - code_commune : the INSEE code of the city where the school is located'''
 
-    data = pd.read_csv('data.csv', sep=';')
+    data = pd.read_csv('./schools/data.csv', sep=';', encoding='utf-8')
     data = data[['appellation_officielle', 'denomination_principale', 'libelle_commune', 'code_postal_uai', 'code_commune']]
     return data
 
-print(parse_data())
+# put it into csv
+parse_data().to_csv('./schools/data_cleaned.csv', index=False, sep=';', encoding='utf-8')
