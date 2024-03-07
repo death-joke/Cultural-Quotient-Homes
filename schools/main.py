@@ -2,7 +2,7 @@ import pandas as pd
 
 # data from 
 
-def parse_data():
+def parse_data_schools():
     '''Parse data from csv file and return a dataframe with the following columns:
     - appellation_officielle : the official type of the school
     - denomination_principale : the main denomination of the school
@@ -14,5 +14,7 @@ def parse_data():
     data = data[['appellation_officielle', 'denomination_principale', 'libelle_commune', 'code_postal_uai', 'code_commune']]
     return data
 
-# put it into csv
-parse_data().to_csv('./schools/data_cleaned.csv', index=False, sep=';', encoding='utf-8')
+
+if __name__ == "__main__":
+    # put it into csv
+    parse_data_schools().to_csv('./schools/data_cleaned.csv', index=False, sep=';', encoding='utf-8')
