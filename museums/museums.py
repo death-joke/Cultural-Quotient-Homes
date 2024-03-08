@@ -1,5 +1,6 @@
 #commune, Code Postal, Latitude;Longitude,Nom officiel du musée;
 import pandas as pd
+from unidecode import unidecode
 
 
 def parse_data_museums():
@@ -13,6 +14,7 @@ def parse_data_museums():
     data = data[['Nom officiel du musée', 'Commune', 'Code Postal', 'Latitude', 'Longitude']]
     data = data.drop_duplicates()
     data = data.dropna()
+    data['Commune'] = data['Commune'].apply(lambda x: unidecode(x).upper())
     return data
 
 
