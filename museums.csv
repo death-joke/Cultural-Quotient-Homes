@@ -1,0 +1,1222 @@
+;Nom officiel du musée;Commune;Code Postal;Latitude;Longitude
+0;musée archéologique;Izernore;1580.0;46.219853;5.555588
+1;musée du peigne et de la plasturgie;Oyonnax;10100.0;46.261019379136016;5.648075546904289
+2;musée du vieux Pérouges;Pérouges;1800.0;45.903299;5.179502
+3;musée Louis Jourdan;Saint-Paul-de-Varax;1240.0;46.098973;5.129264
+4;musée de la Dombes;Villars-les-Dombes;1330.0;46.005784;5.032151
+5;musée rural de la Sologne bourbonnaise;Beaulon;3470.0;46.466871;3.748142
+6;musée des arts africains et asiatiques (maison du missionnaire);Vichy;3200.0;46.128104;3.419803
+7;musée vivarois César Filhol;Annonay;7100.0;45.240803;4.668129
+8;musée du Rhône;Tournon-sur-Rhône;7300.0;45.067938;4.831838
+9;musée des sciences;Aurillac;15000.0;44.932919;2.444912
+10;musée Crozatier;Le Puy-en-Velay;43000.0;45.03866738457689;3.883456073071687
+11;musée Léon Marès;Lovagny;74330.0;45.89818;6.040579
+12;musée de Rumilly et de l'Albanais;Rumilly;74150.0;45.861683;5.947732
+13;musée des beaux-arts et d'archéologie;Vienne;38200.0;45.524069;4.87462
+14;musée lapidaire Saint-Pierre;Vienne;38200.0;45.523234;4.870694
+15;musée Mainssieux;Voiron;38500.0;45.356047;5.579652
+16;musée de l'armée secrète et de la résistance;Estivareilles;42380.0;45.415906;4.010414
+17;musée d'art moderne et contemporain de Saint-Etienne Métropole - musée d'art moderne;Saint-Etienne;42006.0;45.46964793515552;4.374526863293208
+18;musée d'art Roger-Quillot;Clermont-Ferrand;63100.0;45.793027;3.07827
+19;musée Francisque Mandet;Riom;63200.0;45.893874;3.116508
+20;Lugdunum, musée et théâtres romains;Lyon;69005.0;45.760529;4.82004
+21;musée des Confluences;Lyon;69002.0;45.73319;4.818042
+22;musée Guimet;Lyon;69002.0;45.73319;4.818042
+23;musée archéologique;Aix-les-Bains;73103.0;45.68863382600499;5.915600925206359
+24;musée municipal d'Albertville-Conflans;Albertville;73200.0;45.670787;6.397471
+25;musée de l'académie de la Val d'Isère;Moûtiers;73600.0;45.483424;6.532778
+26;musée d'art sacré;Dijon;21000.0;47.317559;5.037282
+27;musée comtois;Besançon;25000.0;47.236687;6.022095
+28;muséum d'histoire naturelle;Besançon;25000.0;47.236687;6.022095
+29;musée Gustave Courbet;Ornans;25290.0;47.104874;6.147697
+30;écomusée du pays de la cerise;Fougerolles;70220.0;47.90731792798074;6.400821912965652
+31;musée de la vigne et du vin;Arbois;39600.0;46.902412;5.773686
+32;musée Sarret de Grozon;Arbois;39600.0;46.902604;5.774717
+33;musée municipal d'archéologie;Champagnole;39300.0;46.74651;5.907547
+34;musée d'archéologie;Lons-le-Saunier;39000.0;46.684566;5.579336
+35;musée municipal;Poligny;39800.0;46.836426;5.708802
+36;musée de la Grande Saline;Salins-les-Bains;39110.0;46.937242;5.876684
+37;musée d'art et d'histoire Romain Rolland;Clamecy;58500.0;47.460604;3.520823
+38;musée de la mine;La Machine;58260.0;46.889225;3.463514
+39;musée d'art et d'archéologie;Cluny;71250.0;46.433938;4.658048
+40;écomusée de la communauté Le Creusot - Montceau-les-Mines;Le Creusot - Montceau-les-Mines;71200.0;46.80448;4.428059
+41;musée municipal;Louhans;71270.0;46.87264;5.275048
+42;musée Guillon du compagnonnage;Romanèche-Thorins;71570.0;46.187946;4.73427
+43;musée départemental de préhistoire;Solutré-Pouilly;71960.0;46.295079;4.732247
+44;musée Frédéric Japy;Beaucourt;90500.0;47.485011;6.922453
+45;musée d'histoire naturelle;Auxerre;89000.0;47.796936;3.564362
+46;musée municipal;Sens;89100.0;48.197828;3.284505
+47;port-musée;Douarnenez;29177.0;48.092534535422494;-4.332643401713885
+48;musée de l'ancienne abbaye de Landévennec;Landévennec;29560.0;48.291351;-4.267455
+49;musée des jacobins;Morlaix;29600.0;48.577242;-3.825317
+50;musée des phares et balises;Ouessant;29242.0;48.458998;-5.128812
+51;musée des beaux-arts;Quimper;29000.0;47.996188;-4.101963
+52;musée de l'école rurale en Bretagne;Trégarvan;29560.0;48.244359;-4.225057
+53;musée du Long-Cours Cap-hornier;Saint-Malo;35408.0;48.63419813712232;-2.025904669160417
+54;écomusée de Saint-Degan;Brec'h;56400.0;47.70843;-2.993063
+55;écomusée industriel des forges;Inzinzac-Lochrist;56650.0;47.824974;-3.25232
+56;musée du Berry;Bourges;18000.0;47.083735;2.39325
+57;musée municipal;Vierzon;18100.0;47.225192;2.060639
+58;musée bonnevallais;Bonneval;28800.0;48.181517;1.385475
+59;musée des beaux-arts et d'histoire naturelle;Châteaudun;28200.0;48.070792;1.327905
+60;musée d'art et d'histoire de Dreux;Dreux;28100.0;48.733472;1.368066
+61;musée de l'histoire du Perche;Nogent-le-Rotrou;28400.0;48.324867;0.804249
+62;musée Farcot;Sainville;28700.0;48.415867;1.87924
+63;musée Lansyer;Loches;37600.0;47.126829;0.997457
+64;musée du compagnonnage;Tours;37000.0;47.39627;0.686457
+65;musée du vin de Touraine;Tours;37000.0;47.393692;0.687373
+66;musée municipal théâtre forain et archéologique;Artenay;45410.0;48.082089;1.879609
+67;musée Gaston Couté;Meung-sur-Loire;45130.0;47.825556;1.694889
+68;musée des beaux-arts;Orléans;45000.0;47.901573;1.90861
+69;muséum d'histoire naturelle;Blois;41000.0;47.585122;1.33302
+70;musée de Sologne;Romorantin-Lathenay;41206.0;47.357323362886696;1.7436882670458762
+71;musée palais Fesch;Ajaccio;20000.0;41.922406;8.738487
+72;musée d'ethnographie corse;Bastia;20200.0;42.693145;9.450578
+73;musée de la Corse;Corte;20250.0;42.307888;9.14766
+74;musée de la maison de la dernière cartouche;Bazeilles;8140.0;49.681745;4.975035
+75;musée de l'Ardenne;Charleville-Mezières;8000.0;49.773836;4.721238
+76;musée du Rethelois et du Porcien;Rethel;8300.0;49.509328;4.366447
+77;musée Napoléon 1er;Brienne-le-Château;10500.0;48.388915;4.528446
+78;musée d'art moderne;Troyes;10000.0;48.299643;4.080736
+79;musée historique de Troyes et de la Champagne;Troyes;10000.0;48.294239;4.071824
+80;pharmacie musée de l'hôtel-Dieu;Troyes;10000.0;48.298985;4.078036
+81;musée de la Folie Marco;Barr;67140.0;48.410166;7.451102
+82;musée historique et industriel - musée du fer;Reichshoffen;67110.0;48.932234;7.664814
+83;cabinet des estampes et des dessins;Strasbourg;67076.0;48.5812366410149;7.750544327135451
+84;musée d'art moderne et contemporain de Strasbourg;Strasbourg;67000.0;48.579654;7.736231
+85;musée de l'affiche;Chaumont;52000.0;48.110756;5.135234
+86;musée gallo-romain;Biesheim;68600.0;48.041667;7.54802
+87;musée historique et militaire;Huningue;68330.0;47.591513;7.584985
+88;musée Electropolis;Mulhouse;68200.0;47.749441;7.295058
+89;musée national de l'automobile - collection Schlumpf;Mulhouse;68051.0;47.76161416701042;7.327893525261629
+90;musée municipal;Châlons-en-Champagne;51000.0;48.956391;4.364203
+91;musée municipal;Epernay;51200.0;49.042901;3.961379
+92;musée municipal des émaux et faïence;Longwy;54400.0;49.519776;5.760104
+93;"musée ""Au fil du papier""";Pont-à-Mousson;54700.0;48.901615;6.056259
+94;musée barrois;Bar-le-Duc;55000.0;48.771797;5.156074
+95;musée du sel;Marsal;57630.0;48.788503;6.606549
+96;musée militaire et Erckmann-Chatrian;Phalsbourg;57370.0;48.766548;7.259055
+97;musée Jean de la Fontaine;Château-Thierry;2400.0;49.046927;3.400289
+98;musée archéologique municipal;Laon;2000.0;49.563206;3.626781
+99;musée Monseigneur Pigneau de Behaine;Origny-en-Thiérache;2550.0;49.896025;4.022381
+100;musée de la vie rurale et forestière;Saint-Michel-en-Thiérache;2830.0;49.922563;4.134763
+101;musée municipal;Soissons;2200.0;49.384539;3.327233
+102;forum antique de Bavay;Bavay;59570.0;50.284781;3.774369
+103;musée diocésain d'art sacré;Cambrai;59403.0;50.17317988093964;3.231397169508298
+104;écomusée de la région;Fourmies-Trélon;59612.0;50.01772507450119;4.043565881930145
+105;musée municipal d'histoire locale;Marchiennes;59870.0;50.40744;3.281222
+106;MUDO - musée de l'Oise;Beauvais;60000.0;49.432788;2.080444
+107;musée Pillon;Chaumont-en-Vexin;60240.0;49.262578;1.882069
+108;musée du Valois et de l'archerie;Crépy-en-Valois;60800.0;49.236654;2.884009
+109;musée Calvin;Noyon;60400.0;49.581666;2.998444
+110;musée de la vénerie;Senlis;60300.0;49.207022;2.585103
+111;muséum d'histoire naturelle;Boulogne-sur-Mer;62311.0;50.723535472588935;1.6171474769293122
+112;musée du Touquet Paris Plage;Le Touquet - Paris-Plage;62520.0;50.510041;1.60545
+113;musée de l'hôtel Sandelin;Saint-Omer;62500.0;50.749007;2.254521
+114;musée-historial de la Grande Guerre;Péronne;80201.0;49.93003;2.9319
+115;musée français de la photographie;Bièvres;91570.0;48.762826;2.225102
+116;musée municipal Robert Dubois-Corneau;Brunoy;91800.0;48.700308;2.500293
+117;musée Roybet-Fould;Courbevoie;92400.0;48.900998;2.271279
+118;musée d'histoire locale - mémoire de la ville;Rueil-Malmaison;92500.0;48.877678;2.18183
+119;MUS - musée d'histoire urbaine et sociale de Suresnes;Suresnes;92150.0;48.868303;2.221944
+120;musée Cernuschi, musée des arts de l'Asie de la ville de Paris;Paris;75008.0;48.879693;2.312194
+121;musée Cognacq-Jay, musée du XVIIIe siècle de la ville de Paris;Paris;75003.0;48.858257;2.361524
+122;musée de l'Ecole nationale supérieure des beaux-arts;Paris;75006.0;48.845748;2.33167
+123;musée de l'institut du monde arabe;Paris;75005.0;48.843955;2.352176
+124;musée du service de santé des armées du Val-de-Grâce;Paris;75005.0;48.840814;2.341091
+125;musée de la poste;Paris;75731.0;48.84156094062689;2.317700895922452
+126;musée de Montmartre;Paris;75018.0;48.887709;2.340577
+127;musée de l'Orangerie des Tuileries;Paris;75001.0;48.868053;2.326622
+128;musée des arts et métiers;Paris;75003.0;48.865357;2.357046
+129;musée national d'art moderne (centre national d'art et de culture Georges Pompidou);Paris;75191.0;48.86080432275963;2.3522235406355176
+130;musée Eugène Delacroix;Paris;75006.0;48.854434;2.335679
+131;musée de la Franc-Maçonnerie;Paris;75009.0;48.874991;2.343088
+132;musée municipal des Capucins;Coulommiers;77120.0;48.810834;3.086974
+133;musée Gatien Bonnet;Lagny-sur-Marne;77400.0;48.879644;2.707767
+134;château musée de Nemours;Nemours;77140.0;48.265518;2.696157
+135;musée de Provins et du Provinois;Provins;77160.0;48.561624;3.290374
+136;musée départemental Stéphane Mallarmé;Vulaines-sur-Seine;77870.0;48.430323;2.746605
+137;musée de l'histoire vivante;Montreuil;93100.0;48.866151;2.469481
+138;musée municipal;Saint-Ouen;93400.0;48.915848;2.330639
+139;musée Pissarro;Pontoise;95300.0;49.048396;2.099887
+140;musée Adrien Mentienne;Bry-sur-Marne;94360.0;48.835224;2.519827
+141;musée de la résistance nationale;Champigny-sur-Marne;94501.0;48.8074834934562;2.525362870676448
+142;musée de Saint-Maur - Villa Médicis;Saint-Maur-des-Fossés;94210.0;48.79310937814309;2.5149018357668425
+143;musée de la batellerie;Conflans-Sainte-Honorine;78700.0;48.992445;2.095621
+144;musée d'art et d'histoire;Poissy;78300.0;48.92797;2.044648
+145;musée du jouet Pierre Pinel;Poissy;78300.0;48.928429;2.037892
+146;musée de la Société des antiquaires;Caen;14000.0;49.18130160203962;-0.3721511292013451
+147;musée d'initiation à la nature;Caen;14027.0;49.18059009759904;-0.37218715643821
+148;musée d'art et d'histoire;Lisieux;14100.0;49.144581;0.219329
+149;musée de la villa Montebello;Trouville-sur-Mer;14360.0;49.37135;0.083538
+150;musée du vieux château;Bricquebec;50260.0;49.424753;-1.649839
+151;musée de l'abbaye;Cerisy-la-Forêt;50680.0;49.19308;-0.936738
+152;musée Christian Dior;Granville;50400.0;48.83751;-1.588374
+153;ferme-musée du Cotentin;Sainte-Mère-Eglise;50480.0;49.412401;-1.319894
+154;musée Barbey d'Aurevilly;Saint-Sauveur-le-Vicomte;50390.0;49.384499;-1.533001
+155;musée maritime de l'île Tatihou;Saint-Vaast-la-Hougue;50550.0;49.587648;-1.267813
+156;musée du château;Torigni-sur-Vire;50160.0;49.03409882972262;-0.9787106672980048
+157;musée municipal d'archéologie;L'Aigle;61300.0;48.764955;0.628791
+158;musée départemental des arts et traditions populaires du Perche;Saint-Cyr-La-Rosière;61130.0;48.324387;0.656069
+159;musée de la marine de Seine;Caudebec-en-Caux;76490.0;49.524671;0.72058
+160;musée du prieuré;Harfleur;76700.0;49.507156;0.19911
+161;muséum d'histoire naturelle;Le Havre;76600.0;49.487552;0.108231
+162;musée des sapeurs pompiers de France;Montville;76710.0;49.546845;1.076136
+163;musée industriel de la corderie Valois;Notre-Dame-de-Bondeville;76960.0;49.494507;1.048567
+164;musée des antiquités de la Seine-Maritime;Rouen;76000.0;49.447268;1.098932
+165;muséum d'histoire naturelle;Rouen;76000.0;49.447268;1.098932
+166;musée de l'horlogerie;Saint-Nicolas-d'Aliermont;76510.0;49.879641;1.219788
+167;musée d'Orbigny-Bernon;La Rochelle;17000.0;46.160752;-1.155429
+168;musée du Présidial;Saintes;17100.0;45.746235;-0.632055
+169;musée Dupuy-Mestreau;Saintes;17100.0;45.743294;-0.634076
+170;musée municipal des cordeliers;Saint-Jean-d'Angély;17400.0;45.942607;-0.523425
+171;musée Ernest Cognacq;Saint-Martin-de-Ré;17410.0;46.2055;-1.365288
+172;musée des Tumulus;Bougon;79800.0;46.374565;-0.067433
+173;musée Fernand Desmoulin;Brantôme;24310.0;45.364385;0.647127
+174;musée-aquarium;Creysse;24100.0;44.854512;0.564759
+175;musée Goupil;Bordeaux;33000.0;44.835543;-0.575205
+176;musée municipal;Villandraut;33730.0;44.457512;-0.372793
+177;musée départemental d'art contemporain;Rochechouart;87600.0;45.822521;0.820506
+178;musée historique de l'hydravion;Biscarrosse;40600.0;44.388887;-1.182563
+179;musée de Borda;Dax;40100.0;43.710655;-1.054061
+180;musée Despiau-Wlérick;Mont-de-Marsan;40000.0;43.8926;-0.498893
+181;musée municipal des beaux-arts;Agen;47000.0;44.202895;0.615471
+182;muséum d'histoire naturelle;Bayonne;64109.0;43.49364187649409;-1.4751693306701943
+183;musée béarnais;Pau;64400.0;43.18818;-0.604752
+184;musée national du château de Pau;Pau;64000.0;43.294699;-0.374378
+185;musée de la moto, de l'automobile et du vélo;Châtellerault;86100.0;46.81393;0.536238
+186;musée municipal de l'hôtel de Sully;Châtellerault;86100.0;46.81393;0.536238
+187;musée municipal;Civray;86400.0;46.147599;0.296434
+188;musée du baptistère Saint-Jean;Poitiers;86000.0;46.580519;0.346104
+189;musée d'archéologie;Montségur;9300.0;42.871095;1.832858
+190;musée archéologique du Lauragais;Castelnaudary;11400.0;43.315299;1.959048
+191;musée archéologique;Sallèles-d'Aude;11590.0;43.260661;2.942874
+192;musée régional de géologie Pierre Vetter;Decazeville;12300.0;44.555515;2.266258
+193;musée des mœurs et coutumes, musée du Rouergue;Espalion;12500.0;44.520841;2.760423
+194;musée municipal;Roquefort-sur-Soulzon;12250.0;43.975103;2.991651
+195;Carré d'art - musée d'art contemporain;Nîmes;30000.0;43.837904;4.35616
+196;musée des Amériques - Auch;Auch;32000.0;43.647171;0.587482
+197;musée archéologique;Eauze;32800.0;43.862193;0.101384
+198;musée campanaire;L'Isle-Jourdain;32600.0;43.612852;1.08184
+199;musée des beaux-arts et des arts décoratifs;Mirande;32300.0;43.515315;0.403452
+200;musée du pays de Luchon;Bagnères-de-Luchon;31110.0;42.789494;0.592035
+201;musée des Augustins;Toulouse;31000.0;43.600562;1.445904
+202;musée Paul Dupuy;Toulouse;31000.0;43.596898;1.446935
+203;musée de la vie quotidienne dans les Pyrénées;Bagnères-de-Bigorre;65200.0;43.065612;0.153699
+204;musée de l'Ephèbe;Agde (Cap d'Agde);34300.0;43.298047;3.476702
+205;musée municipal;Frontignan;34110.0;43.447077;3.755055
+206;musée du Pic-Saint-Loup;Les Matelles;34270.0;43.731232;3.809872
+207;musée languedocien;Montpellier;34000.0;43.609524;3.879151
+208;musée Paul Valéry;Sète;34200.0;43.395512;3.691204
+209;musée archéologique;Luzech;46140.0;44.479159;1.286317
+210;musée de plein air du Quercy;Sauliac-sur-Célé (Cuzals);46330.0;44.533948;1.697872
+211;écomusée du mont Lozère;Le Pont-de-Montvert;48220.0;44.36343;3.746499
+212;musée du Castillet Casa Pairal;Perpignan;66000.0;42.727965;2.896696
+213;musée d'archéologie sous-marine;Port-Vendres;66660.0;42.519619;3.107319
+214;musée Charles Portal - Histoire et patrimoine;Cordes;81170.0;44.063752;1.94934
+215;musée du protestantisme, de la Réforme à la laïcité;Ferrières;81260.0;43.661945;2.448167
+216;musée des beaux-arts;Gaillac;81600.0;43.894286;1.901945
+217;musée du vieil Auvillar;Auvillar;82340.0;44.070335;0.899472
+218;musée du vignoble nantais;Le Pallet;44330.0;47.134414;-1.329883
+219;musée du château des ducs de Bretagne;Nantes;44000.0;47.216353;-1.549389
+220;musées du parc naturel régional de Brière;Saint-Joachim;44720.0;47.373699;-2.21367
+221;musée d'art et d'histoire;Baugé;49150.0;47.531598;-0.119966
+222;musée Jules-Desbois;Parçay-les-Pins;49390.0;47.436646;0.159508
+223;musée archéologique départemental;Jublains;53160.0;48.255526;-0.496863
+224;musée des sciences;Laval;53000.0;48.06597;-0.772148
+225;musée du château;Mayenne;53100.0;48.302519;-0.620269
+226;musée municipal;Château-du-Loir;72500.0;47.693176;0.417263
+227;musée de Tessé;Le Mans;72000.0;48.01112;0.203755
+228;musée espace faïence de Malicorne;Malicorne;72270.0;47.813698;-0.083896
+229;centre de découverte du marais breton;La Barre-de-Monts;85550.0;46.874377;-2.102492
+230;musée des traditions;La Guérinière;85680.0;46.966649;-2.231792
+231;Historial de la Vendée;Les Lucs-Sur-Boulogne;85170.0;46.859966;-1.492724
+232;musée de la construction navale artisanale;Noirmoutier-en-l'Île;85330.0;46.99903;-2.245756
+233;musée du château;Noirmoutier-en-l'Île;85330.0;46.999718;-2.243127
+234;musée d'archéologie;Antibes;6600.0;43.576824;7.124074
+235;musée Renoir;Cagnes-sur-Mer;6800.0;43.667649;7.156541
+236;musée des explorations du monde (MEM);Cannes;6400.0;43.551515;7.010034
+237;musée Jean Cocteau;Menton;6500.0;43.774945;7.508676
+238;musée archéologique de Cimiez;Nice;6000.0;43.719221;7.275115
+239;musée d'art naïf Anatole Jakovsky;Nice;6200.0;43.68784;7.231462
+240;musée des beaux-arts Jules Chéret;Nice;6364.0;43.69467562501604;7.249470499489079
+241;musée Matisse;Nice;6000.0;43.720041;7.276769
+242;cabinet des monnaies et médailles;Marseille;13001.0;43.295789;5.383313
+243;musée des arts africains, océaniens, amérindiens;Marseille;13002.0;43.300172;5.367602
+244;musée des Saintes-Maries-de-la-Mer;Saintes-Maries-de-la-Mer;13460.0;43.45124;4.427775
+245;musée du pays brignolais;Brignoles;83170.0;43.404216;6.061427
+246;musée de l'hôtel-Dieu;Cavaillon;84300.0;43.836985;5.037862
+247;musée Jean Garcin 39-45 : l'appel de la liberté;Fontaine-de-Vaucluse;84800.0;43.922626;5.127397
+248;musée municipal;Mazan;84380.0;44.056743;5.12788
+249;musée archéologique Théo Desplans;Vaison-la-Romaine;84110.0;44.246355;5.072128
+250;écomusée de l'Approuague;Régina;97338.0;5.16631994230844;-52.65043417217795
+251;musée des arts décoratifs de l'Océan indien;Saint-Louis;97450.0;-21.26765;55.411839
+252;musée du Père Pinchon;Fort-de-France;97200.0;14.649226;-61.070648
+253;musée Frank A. Perret - mémorial de la catastrophe de 1902;Saint-Pierre-de-la-Martinique;97250.0;14.743103;-61.175994
+254;musée Chintreuil;Pont-de-Vaux;1190.0;46.430076;4.938125
+255;musée du bois;Seyssel;1420.0;45.959038;5.831489
+256;musée Charles-Louis Philippe;Cérilly;3350.0;46.617913;2.823245
+257;musée des musiques populaires (vieux château);Montluçon;3100.0;46.341009;2.605724
+258;centre national du costume de scène et de la scénographie;Moulins-sur-Allier;3000.0;46.560973;3.335798
+259;musée Saint-Marc;Souvigny;3210.0;46.534866;3.192356
+260;musée de la terre ardéchoise;Privas;7000.0;44.735836;4.594922
+261;musée d'art et d'archéologie;Aurillac;15000.0;44.925394;2.441947
+262;musée d'art sacré;Mours-Saint-Eusèbe;26540.0;45.07091;5.052549
+263;musée de la chaussure;Romans;26100.0;45.0431;5.055376
+264;musée du site préhistorique;Vassieux-en-Vercors;26420.0;44.865703;5.357302
+265;musée-château;Annecy;74000.0;45.897263;6.124916
+266;musée Hector Berlioz;La Côte-Saint-André;38260.0;45.393386;5.261189
+267;musée de la Grande Chartreuse;Saint-Pierre-de-Chartreuse;38380.0;45.341728;5.814737
+268;musée du cloître Saint-André-le-Bas;Vienne;38200.0;45.526967;4.873538
+269;musée départemental de la Révolution française;Vizille;38220.0;45.08753;5.773234
+270;musée Alice Taverne;Ambierle;42820.0;46.105434;3.896167
+271;musée de la soierie;Charlieu;42190.0;46.160301;4.17052
+272;musée de Feurs;Feurs;42110.0;45.744191;4.219803
+273;musée de la Diana;Montbrison;42600.0;45.60543;4.066822
+274;musée Joseph Déchelette;Roanne;42300.0;46.034953;4.069842
+275;musée Bargoin;Clermont-Ferrand;63000.0;45.774229;3.0869
+276;musée des pénitents blancs;Marsac-en-Livradois;63940.0;45.478967;3.728534
+277;musée paléontologique;Menat;63560.0;46.103652;2.904431
+278;musée municipal;Murol;63790.0;45.590429;2.921508
+279;centre d'histoire de la résistance;Lyon;69007.0;45.747037;4.835797
+280;musée de l'imprimerie et de la communication graphique;Lyon;69002.0;45.764219;4.834752
+281;musée des beaux-arts;Lyon;69001.0;45.767177;4.833576
+282;muséum d'histoire naturelle;Lyon;69002.0;45.73319;4.818042
+283;écomusée du Haut Beaujolais;Marnand;69240.0;46.037849;4.315548
+284;musée Henri Malartre;Rochetaille-sur-Saône;69270.0;45.84492;4.837207
+285;musée archéologique et minéralogique Pierre Borrione;Aime-en-Tarentaise;73210.0;45.559416;6.651415
+286;musée Savoisien;Chambéry;73000.0;45.571174;5.875158
+287;musée Bonaparte;Auxonne;21130.0;47.190963;5.383768
+288;musée archéologique;Dijon;21000.0;47.321873;5.034107
+289;musée des beaux-arts et d'archéologie;Besançon;25000.0;47.240055;6.022938
+290;musée du temps;Besançon;25000.0;47.235978;6.0268
+291;musée Beurnier-Rossel;Montbéliard;25200.0;47.509957;6.797684
+292;musée municipal;Pontarlier;25300.0;46.904221;6.354581
+293;musée de beaux-arts;Saint-Claude;39200.0;46.386209;5.865239
+294;musée de la faïence Frédéric Blandin;Nevers;58000.0;46.98629;3.155037
+295;musée Verger-Tarin;Autun;71400.0;46.949043;4.302971
+296;muséum d'histoire naturelle;Autun;71400.0;46.947996;4.301812
+297;musée bourguignon Perrin de Puycousin;Tournus;71700.0;46.562137;4.910839
+298;musée d'art et d'histoire Saint-Germain;Auxerre;89000.0;47.800283;3.571975
+299;musée de l'Avallonnais Jean Després;Avallon;89200.0;47.486968;3.906795
+300;musée Colette;Saint-Sauveur-en-Puisaye;89520.0;47.618015;3.197026
+301;musée d'art et d'histoire de Puisaye;Villiers-Saint-Benoît;89130.0;47.780142;3.20739
+302;écomusée de l'île de Groix;Groix;56590.0;47.63992;-3.434074
+303;musée du Faouët;Le Faouët;56320.0;48.031817;-3.490833
+304;musée d'histoire et d'archéologie;Vannes;56000.0;47.656705;-2.757726
+305;muséum d'histoire naturelle Gabriel Foucher;Bourges;18000.0;47.081055;2.392284
+306;musée du château Charles VII;Mehun-sur-Yèvre;18500.0;47.145214;2.21738
+307;musée de la chemiserie et de l'élégance masculine;Argenton-sur-Creuse;36200.0;46.58847;1.518517
+308;château musée;Azay-le-Ferron;36290.0;46.851361;1.069524
+309;musée ornithologique;Le Blanc;36300.0;46.627962;1.062835
+310;Le Carroi, musée d'arts et d'histoire;Chinon;37500.0;47.167125;0.23767
+311;musée Descartes;Descartes;37160.0;46.972623;0.699988
+312;musée départemental de préhistoire;Le Grand Pressigny;37350.0;46.921003;0.800711
+313;musée Rabelais;Seuilly;37500.0;47.140806;0.179096
+314;musée de la marine de Loire;Châteauneuf-sur-Loire;45110.0;47.865212;2.219187
+315;musée d'art et d'archéologie;Châtillon-Coligny;45230.0;47.820625;2.844906
+316;musée du Gâtinais;Montargis;45200.0;47.998314;2.729233
+317;musée Girodet;Montargis;45200.0;47.997528;2.737205
+318;hôtel Cabu, musée d'histoire et d'archéologie;Orléans;45000.0;47.900952;1.905193
+319;musée archéologique;Thésée;41140.0;47.3284903864584;1.306555055404134
+320;musée municipal;Bar-sur-Aube;10200.0;48.233206;4.705996
+321;maison de l'outil et de la pensée ouvrière;Troyes;10000.0;48.29473;4.072849
+322;musée historique;Haguenau;67500.0;48.812831;7.791481
+323;musée de l'image populaire;Pfaffenhoffen;67350.0;48.844834;7.611365
+324;musée alsacien;Strasbourg;67000.0;48.579075;7.750484
+325;musée de l'Œuvre Notre-Dame;Strasbourg;67076.0;48.58097;7.75151
+326;musée Tomi Ungerer;Strasbourg;67000.0;48.585747;7.755028
+327;musée Oberlin;Waldersbach;67130.0;48.414759;7.214925
+328;musée Lalique;Wingen-sur-Moder;67290.0;48.927033;7.361922
+329;musée Westercamp;Wissembourg;67160.0;49.038815;7.944344
+330;musée municipal;Bourbonne-les-Bains;52400.0;47.942274;5.732204
+331;musée d'art et d'histoire;Langres;52200.0;47.865268;5.333286
+332;musée municipal;Saint-Dizier;52115.0;48.63804122933198;4.948277733396815
+333;musée du vignoble et des vins d'Alsace;Kientzheim;68770.0;48.126069;7.280128
+334;"musée de la société d'histoire ""les amis de Thann""";Thann;68800.0;47.812283;7.101737
+335;musée du cloître de Notre-Dame-en-Vaux;Châlons-en-Champagne;51000.0;48.956391;4.364203
+336;musée des beaux-arts de Reims;Reims;51100.0;49.253442;4.030921
+337;musée-hôtel Le Vergeur – maison Hugues Krafft;Reims;51100.0;49.257013;4.034043
+338;musée de l'Argonne Viard-Morel;Sainte-Menehould;51800.0;49.092086;4.897997
+339;Féru des sciences;Jarville-la-Malgrange;54140.0;48.666588;6.208769
+340;château de Montaigu;Laneuville-devant-Nancy;54410.0;48.665792;6.215554
+341;musée du château;Lunéville;54300.0;48.589446;6.505708
+342;musée des beaux-arts;Nancy;54000.0;48.693507;6.182435
+343;musée historique lorrain;Nancy;54000.0;48.697316;6.179154
+344;musée d'art sacré de la Meuse;Saint-Mihiel;55300.0;48.88855;5.541165
+345;musée de la Princerie;Verdun;55100.0;49.161059;5.382439
+346;musée des mines de fer de Lorraine;Neufchef (Hayange);57700.0;49.325904;6.027572
+347;musée de la faïence et des techniques faïencières;Sarreguemines;57200.0;49.109069;7.070473
+348;musée départemental Georges de la Tour;Vic-sur-Seille;57630.0;48.781787;6.531429
+349;musée de l'image;Epinal;88000.0;48.183628;6.445992
+350;musée Charles Friry;Remiremont;88200.0;48.015174;6.590031
+351;musée bibliothèque;Chauny;2300.0;49.615394;3.216814
+352;Familistère de Guise;Guise;2120.0;49.903647;3.626529
+353;musée des beaux-arts Antoine Lécuyer;Saint-Quentin;2100.0;49.849891;3.285398
+354;musée entomologique;Saint-Quentin;2100.0;49.84595;3.288944
+355;musée de la résistance et de la déportation;Tergnier;2700.0;49.65875;3.315011
+356;musée d'histoire et d'archéologie;Avesnes-sur-Helpe;59440.0;50.12356;3.924751
+357;musée d'archéologie et d'histoire locale;Denain;59220.0;50.327614;3.400973
+358;musée maritime et portuaire;Dunkerque;59140.0;51.037914;2.372174
+359;centre historique minier, musée de la mine, centre d'archives, centre de culture scientifique de l'énergie;Lewarde;59287.0;50.336033;3.168419
+360;musée de l'hospice Comtesse;Lille;59800.0;50.641053;3.06294
+361;La Piscine - musée d'art et d'industrie André Diligent de Roubaix;Roubaix;59100.0;50.693026;3.16791
+362;musée Antoine Vivenel;Compiègne;60200.0;49.417414;2.821526
+363;musée national du château de Compiègne;Compiègne;60200.0;49.41943864456635;2.831490934564086
+364;musée de la nacre et de la tabletterie;Méru;60110.0;49.238327;2.139609
+365;musée du Noyonnais;Noyon;60400.0;49.581852;2.999742
+366;musée des beaux-arts;Arras;62000.0;50.291759;2.772987
+367;musée des beaux-arts et de la dentelle;Calais;62100.0;50.956724;1.851871
+368;musée d'art et d'histoire Roger Rodière;Montreuil-sur-Mer;62170.0;50.462947;1.763832
+369;musée de l'hôtel de Berny;Amiens;80000.0;49.892882;2.302463
+370;musée Dunoyer de Segonzac;Boussy-Saint-Antoine;91800.0;48.688925;2.530019
+371;musée du château;Dourdan;91410.0;48.529685;2.011803
+372;musée municipal d'art et d'histoire;Colombes;92700.0;48.923321;2.252039
+373;musée des travaux publics;Courbevoie;92974.0;48.89817715987157;2.2579850008669635
+374;musée du domaine départemental de Sceaux;Sceaux;92330.0;48.774707;2.299024
+375;musée Bourdelle;Paris;75015.0;48.843017;2.31883
+376;musée d'art moderne de la ville de Paris;Paris;75116.0;48.864603220958784;2.29843234195393
+377;musée du Quai Branly - Jacques Chirac;Paris;75007.0;48.861511;2.29771
+378;musée d'Ennery;Paris;75116.0;48.871845;2.281997
+379;musée de la musique;Paris;75019.0;48.889306;2.393807
+380;musée de la chasse et de la nature;Paris;75003.0;48.861491;2.358608
+381;musée Picasso;Paris;75003.0;48.8597;2.362644
+382;musée de l'armée;Paris;75007.0;48.858219;2.312885
+383;musée Nissim de Camondo (Union centrale des arts décoratifs);Paris;75008.0;48.878849;2.312855
+384;musée Gustave Moreau;Paris;75009.0;48.877878;2.334383
+385;musée de la Gendarmerie;Melun;77000.0;48.54648;2.651583
+386;écomusée;Savigny-le-Temple;77176.0;48.599142;2.570872
+387;musée d'histoire et de société;Gonesse;95500.0;2.449718782248399;48.98651569144933
+388;musée de la ville;Montigny-le-Bretonneux;78180.0;48.782594;2.042664
+389;mémorial de Caen, un musée pour la paix;Caen;14066.0;49.19751133869485;-0.3838400268165697
+390;musée de Normandie;Caen;14000.0;49.162048;-0.34514
+391;musée des beaux-arts;Caen;14000.0;49.18615122825814;-0.361223819411571
+392;musée d'ethnographie et d'arts populaires et musée de la marine;Honfleur;14600.0;49.419863;0.233625
+393;musée Eugène Boudin;Honfleur;14602.0;49.42241758787357;0.2308667345641918
+394;musée de la mine;Le Molay-Littry;14330.0;49.243172;-0.877058
+395;musée du verre François Décorchemont;Conches-en-Ouche;27190.0;48.955254;0.935945
+396;musée Alfred Canel;Pont-Audemer;27500.0;49.356747;0.515774
+397;musée de la Libération;Cherbourg;50100.0;49.630736;-1.616324
+398;musée Quesnel-Morinière;Coutances;50200.0;49.047263;-1.446668
+399;musée Richard Anacréon;Granville;50400.0;48.838549;-1.600543
+400;musée du prieuré de Graville;Le Havre;76600.0;49.503006;0.168325
+401;musée Malraux;Le Havre;76600.0;49.484796;0.102188
+402;musée des traditions et arts normands;Martainville-Epreville;76116.0;49.460211;1.292253
+403;Ethnothèque, Musée des Boucles de la Seine Normande;Notre-Dame-de-Bliquetuit;76940.0;49.497518;0.757352
+404;musée Pierre Corneille;Petit-Couronne;76650.0;49.389368;1.0216
+405;musée Le Secq des Tournelles;Rouen;76000.0;49.445148;1.094521
+406;musée régional;Fouras;17450.0;45.98600616496263;-1.0969227906624868
+407;musée napoléonien et musée africain (annexes du musée national des châteaux de Malmaison et de Bois Préau);Île-d'Aix;17123.0;46.011577;-1.176477
+408;musée des beaux-arts;La Rochelle;17000.0;46.161969;-1.151552
+409;musée du nouveau monde;La Rochelle;17000.0;46.161435;-1.151157
+410;muséum d'histoire naturelle et d'ethnographie;La Rochelle;17000.0;46.164822;-1.151488
+411;musée du président Jacques Chirac;Sarran;19800.0;45.407742;1.940079
+412;musée de la mémoire et des industries tullistes;Tulle;19000.0;45.260441;1.751522
+413;musée du pays d'Ussel;Ussel;19208.0;45.54705996603325;2.308435548614703
+414;musée départemental de la tapisserie;Aubusson;23200.0;45.954471;2.169905
+415;musée du tabac;Bergerac;24100.0;44.84976;0.483469
+416;château de Bourdeilles;Bourdeilles;24310.0;45.321359;0.586014
+417;musée de Sarlat et du Périgord noir;Sarlat;24206.0;44.89456376265919;1.2330483275891506
+418;musée municipal;Villefranche-de-Lonchat;24610.0;44.94827;0.056581
+419;musée de la Création Franche;Bègles;33130.0;44.80598303387724;-0.5434896909627212
+420;CAPC - musée d'art contemporain;Bordeaux;33000.0;44.848186;-0.572137
+421;musée d'Aquitaine;Bordeaux;33000.0;44.835543;-0.575205
+422;musée de la voiture à cheval. Au temps des calèches;Bourg-sur-Gironde;33710.0;45.039017;-0.55971
+423;musée des beaux-arts de Limoges - Palais de l'évêché;Limoges;87000.0;45.828784;1.265445
+424;musée & jardins Cécile Sabourdy;Vicq-sur-Breuilh;87260.0;45.64661918081148;1.3822826090754192
+425;atelier-musée;Luxey;40430.0;44.262826;-0.520865
+426;musée départemental de la Faïence et des Arts de la table;Samadet;40320.0;43.641006;-0.510832
+427;musée Bonnat - Helleu, musée des beaux-arts de Bayonne;Bayonne;64100.0;43.492108;-1.472299
+428;musée Bernadotte;Pau;64000.0;43.297209;-0.372526
+429;musée des beaux-arts;Pau;64000.0;43.297254;-0.364384
+430;musée de la Préhistoire Raymond Touchard;Lussac-les-Châteaux;86320.0;46.403482;0.725666
+431;musée d'art et d'histoire de Montmorillon;Montmorillon;86500.0;46.428227;0.872962
+432;musée de l'hypogée des Dunes;Poitiers;86000.0;46.575749;0.359509
+433;musée Rupert de Chièvres;Poitiers;86000.0;46.580602;0.337972
+434;musée départemental de l'Ariège;Foix;9000.0;42.965864;1.6053
+435;musée de la forge;Montgailhard;9330.0;42.940925;1.630459
+436;musée du palais des évêques;Saint-Lizier;9190.0;43.001452;1.143469
+437;Palais-musée des Archevêques de Narbonne;Narbonne;11108.0;43.184165346978;3.00427053368551
+438;musée des Corbières;Sigean;11130.0;43.028689;2.979275
+439;musée municipal;Millau;12100.0;44.097895;3.080595
+440;musée des beaux-arts Denys Puech;Rodez;12000.0;44.349287;2.578079
+441;musée Soulages;Rodez;12005.0;44.35313045450826;2.5679787878647
+442;musée Albert André;Bagnols-sur-Cèze;30200.0;44.161992;4.619843
+443;musée de l'Armagnac;Condom;32100.0;43.960792;0.372858
+444;musée Joseph Abeilhe;Marciac;32230.0;43.524266;0.160982
+445;musée archéologique;Saint-Bertrand-de-Comminges;31510.0;43.022611;0.579433
+446;Le Musée - Arts et Figures des Pyrénées Centrales;Saint-Gaudens;31806.0;43.107604462692926;0.725714913499697
+447;Les Abattoirs, musée d'art moderne et contemporain;Toulouse;31300.0;43.600678;1.428998
+448;musée Georges Labit;Toulouse;31400.0;43.590964;1.4584
+449;musée Salies;Bagnères-de-Bigorre;65200.0;43.063744;0.146227
+450;musée pyrénéen;Lourdes;65100.0;43.096353;-0.048462
+451;musée des beaux-arts;Béziers;34500.0;43.341429;3.210533
+452;muséum d'histoire naturelle;Béziers;34500.0;43.338908;3.215208
+453;musée de la cloche et de la sonnaille;Hérépian;34600.0;43.59470757501317;3.113299575519674
+454;musée archéologique;Lattes;34970.0;43.566659;3.90858
+455;musée de Lodève - hôtel du cardinal de Fleury;Lodève;34700.0;43.731613;3.319595
+456;musée municipal;Murviel-lès-Montpellier;34570.0;43.604855;3.736827
+457;musée de préhistoire;Saint-Pons-de-Thomières;34220.0;43.486827;2.761809
+458;musée Champollion – les Ecritures du monde;Figeac;46100.0;44.609472;2.034599
+459;musée d'art sacré;Rocamadour;46500.0;44.79958240429276;1.6175266643276274
+460;musée Hyacinthe Rigaud;Perpignan;66000.0;42.698013;2.892984
+461;musée de Cerdagne;Sainte-Léocadie;66800.0;42.439471;2.002067
+462;musée de préhistoire;Tautavel;66720.0;42.813587;2.747533
+463;musée Goya;Castres;81100.0;43.604813;2.239888
+464;musée Jean Jaurès;Castres;81100.0;43.607135;2.240474
+465;musée du Pays de Cocagne;Lavaur;81500.0;43.698318;1.820763
+466;archéosite de Montans;Montans;81600.0;43.865466;1.885602
+467;musée du pays rabastinois;Rabastens;81800.0;43.820418;1.724791
+468;musée des arts et traditions populaires;Blain;44130.0;47.475727;-1.764575
+469;musée du pays de Retz;Bourgneuf-en-Retz;44580.0;47.042318;-1.952164
+470;musée municipal;Chateaubriant;44146.0;47.72100904526619;-1.3758648096623352
+471;musée de la porte Saint-Michel;Guérande;44351.0;47.3278205451276;-2.4263477594064646
+472;musée de la vigne et du vin d'Anjou;Saint-Lambert-du-Lattay;49750.0;47.305499;-0.635024
+473;musée Robert Tatin;Cossé-le-Vivien;53230.0;47.942514;-0.906893
+474;musée de l'ardoise;Rénazé;53800.0;47.792697;-1.059417
+475;musée ornithologique Charles-Payraudeau;La Chaize-le-Vicomte;85310.0;46.671824;-1.292607
+476;musée de l'abbaye Sainte-Croix;Les Sables d'Olonne;85100.0;46.497474;-1.777309
+477;musée Milcendeau-Jean Yole;Soullans;85300.0;46.77769;-1.909718
+478;musée Gassendi;Digne-les-Bains;4000.0;44.092652;6.235077
+479;musée municipal;Forcalquier;4301.0;43.96244494216208;5.774406171816429
+480;musée du Masque de fer et du Fort Royal;Cannes (Île Sainte-Marguerite);6400.0;43.520419;7.044228
+481;muséum d'histoire naturelle;Nice;6300.0;43.701924;7.279572
+482;musée de l'atelier de Paul Cézanne;Aix-en-Provence;13090.0;43.537816;5.446601
+483;musée du pavillon de Vendôme;Aix-en-Provence;13100.0;43.530846;5.439915
+484;musée du vieil Aix;Aix-en-Provence;13100.0;43.530857;5.447432
+485;musée Réattu;Arles;13200.0;43.679186;4.627903
+486;museon Arlaten;Arles;13200.0;43.54073;4.676089
+487;musée de la Légion étrangère;Aubagne / Puyloubier;13400.0;43.29353800501653;5.553768624612289
+488;musée Alphonse Daudet;Fontvieille;13390.0;43.380746;5.679968
+489;musée d'histoire et d'archéologie des Baux-de-Provence;Les Baux-de-Provence;13520.0;43.743732;4.794938
+490;musée-fondation Louis Jou;Les Baux-de-Provence;13520.0;43.744256;4.795333
+491;musée des arts décoratifs, de la faïence et de la mode;Marseille;13008.0;43.258599;5.384175
+492;musée des docks romains;Marseille;13002.0;43.29647;5.367908
+493;muséum d'histoire naturelle;Marseille;13004.0;43.305143;5.394121
+494;musée des tourneurs;Aiguines;83630.0;43.776017;6.243581
+495;musée de la société d'études scientifiques et archéologiques;Draguignan;83300.0;43.536558;6.461588
+496;musée de l'Annonciade;Saint-Tropez;83990.0;43.270865;6.637291
+497;musée d'art de Toulon - M.A.T.;Toulon;83000.0;43.125971;5.927245
+498;musée d’Apt;Apt;84400.0;43.875736;5.397687
+499;muséum d'histoire naturelle Esprit Requien;Avignon;84000.0;43.946695;4.803397
+500;musée lapidaire et archéologie;Carpentras;84200.0;44.055939;5.046763
+501;musée du cartonnage et de l'imprimerie;Valréas;84600.0;44.382664;4.987351
+502;musée agricole et industriel Stella Matutina;Piton-Saint-Leu;97424.0;-21.201257;55.296082
+503;musée de l'Arche;Saint-Pierre;97500.0;46.777283;-56.175795
+504;musée de Brou;Bourg-en-Bresse;1000.0;46.196549;5.236521
+505;musée municipal;Gannat;3800.0;46.10177623665999;3.1965137135762065
+506;musée gallo-romain;Néris-les-Bains;3310.0;46.287552;2.662598
+507;muséAL musée départemental archéologique;Alba-la-Romaine;7400.0;44.561507;4.592008
+508;cité de préhistoire;Orgnac-l'Aven;7150.0;44.310413;4.425665
+509;musée Alfred Douët;Saint-Flour;15100.0;45.034016;3.095067
+510;musée des arts et traditions populaires;Lavaudieu;43100.0;45.275033;3.434883
+511;musée des Vallées de Thônes;Thônes;74230.0;45.881618;6.324161
+512;musée Jadis Allevard;Allevard-les-Bains;38580.0;45.392543164883975;6.077135437624907
+513;musée-parc archéologique du lac de Paladru;Montferrat (Charavines);38850.0;45.428526;5.51555
+514;musée Champollion;Vif;38450.0;45.050408;5.6692
+515;musée d'Allard;Montbrison;42600.0;45.608241;4.06195
+516;musée d'art et d'industrie;Saint-Etienne;42000.0;45.431538;4.387485
+517;musée de céramique gallo-romaine;Lezoux;63190.0;45.827628;3.383654
+518;musée Marcel Sahut;Volvic;63530.0;45.872614;3.038881
+519;musée des arts décoratifs;Lyon;69002.0;45.75342;4.83153
+520;musée historique des tissus;Lyon;69002.0;45.753117;4.831633
+521;musée Paul Dini;Villefranche-sur-Saône;69400.0;45.990936;4.721527
+522;musée du docteur Faure;Aix-les-Bains;73100.0;45.692157;5.915578
+523;musée des Charmettes;Chambéry;73000.0;45.552732;5.93011
+524;musée Alésia - centre d'interprétation;Alise-Sainte-Reine;21150.0;47.536592;4.469595
+525;musée des beaux-arts;Beaune;21200.0;47.02097;4.839393
+526;musée Marey;Beaune;21200.0;47.02097;4.839393
+527;musée du Châtillonnais;Châtillon-sur-Seine;21400.0;47.863791;4.574632
+528;musée des beaux-arts;Dijon;21000.0;47.321356;5.042873
+529;musée Buffon;Montbard;21506.0;47.62578588114577;4.336985936365956
+530;musée des beaux-arts;Montbard;21500.0;47.624491;4.336901
+531;musée de la résistance et de la déportation;Besançon;25042.0;47.22933847661575;6.0352366087194325
+532;musée Baron Martin;Gray;70100.0;47.446411;5.592781
+533;musée municipal Georges Garret;Vesoul;70000.0;47.623695;6.155771
+534;Viséum-musée de la lunette (collections du musée de la lunette et du musée Jourdain);Morez;39400.0;46.521;6.022578
+535;musée du Septennat;Château-Chinon;58120.0;47.06721;3.934311
+536;musée municipal;La Charité-sur-Loire;58400.0;47.178081;3.016449
+537;musée Ernest Guedon;Pouilly-sur-Loire;58150.0;47.285947;2.949487
+538;musée du grès;Saint-Amand-en-Puisaye;58310.0;47.529775;3.07388
+539;musée Rolin;Autun;71400.0;46.945723;4.299216
+540;musée de la mine et des hommes;Blanzy;71450.0;46.701488;4.382962
+541;musée Nicéphore Niepce;Chalon-sur-Saône;71100.0;46.780045;4.855727
+542;musée des ursulines;Mâcon;71000.0;46.307508;4.833156
+543;musée Lamartine;Mâcon;71000.0;46.307508;4.833156
+544;musée municipal;Paray-le-Monial;71600.0;46.450396;4.119117
+545;musée de Bibracte;Saint-Léger-sous-Beuvray;71990.0;46.934539;4.062979
+546;musée Greuze - hôtel-Dieu;Tournus;71700.0;46.562137;4.910839
+547;musée d'art et d'histoire;Belfort;90000.0;47.63757;6.867072
+548;musée de Dinan;Dinan;22100.0;48.454713;-2.050808
+549;musée de la pêche;Concarneau;29900.0;47.872103;-3.915485
+550;écomusée d'Ouessant - Vivre sur une île;Ouessant;29242.0;48.460549;-5.110775
+551;musée bigouden;Pont-l'Abbé;29120.0;47.866452;-4.227768
+552;musée départemental breton;Quimper;29000.0;47.995125;-4.102602
+553;écomusée du pays de Monfort;Montfort-sur-Meu;35160.0;48.141088;-1.959973
+554;musée des beaux-arts;Rennes;35000.0;48.109837;-1.674981
+555;musée d'histoire de la ville et d'ethnographie du pays malouin;Saint-Malo;35400.0;48.650738;-2.023727
+556;musée de préhistoire Miln-le-Rouzic;Carnac;56340.0;47.584022;-3.0785
+557;musée des beaux-arts;Vannes;56000.0;47.657693;-2.757556
+558;musée Estève;Bourges;18000.0;47.085951;2.396195
+559;musée Emile Chénon;Châteaumeillant;18370.0;46.5614;2.196543
+560;musée Saint-Vic;Saint-Amand-Montrond;18200.0;46.720657;2.506654
+561;musée des beaux-arts;Chartres;28000.0;48.447624;1.486763
+562;musée Marcel Proust;Illiers-Combray;28120.0;48.299696;1.243114
+563;musée archéologique d'Argentomagus;Saint-Marcel;36200.0;46.600503;1.515379
+564;musée de la poste;Amboise;37400.0;47.413925;0.985929
+565;musée municipal;Richelieu;37120.0;47.011912;0.324353
+566;musée Balzac;Saché;37190.0;47.245703;0.544078
+567;musée du Savignéen;Savigné-sur-Lathan;37340.0;47.445748;0.319748
+568;écomusée du Véron;Savigny-en-Véron;37420.0;47.209697;0.124427
+569;muséum d'Orléans pour la biodiversité et l'environnement;Orléans;45000.0;47.907734;1.909578
+570;musée municipal;Pithiviers;45300.0;48.172521;2.255004
+571;maison de la magie;Blois;41000.0;47.586566;1.332917
+572;musée municipal;Vendôme;41100.0;47.792111;1.064507
+573;musée napoléonien;Ajaccio;20000.0;41.92499;8.735937
+574;musée archéologique de Mariana - Prince Rainier III de Monaco;Lucciana;20290.0;42.542773;9.442618
+575;musée Pascal Paoli;Morosaglia;20261.0;42.4378881569962;9.30935382387544
+576;musée Arthur Rimbaud;Charleville-Mezières;8000.0;49.776034;4.720613
+577;musée du feutre;Mouzon;8210.0;49.605919;5.074601
+578;musée du pays de Hanau - histoire et vies d'un territoire;Bouxwiller;67330.0;48.824977;7.482915
+579;musée alsacien;Haguenau;67500.0;48.814611;7.789527
+580;musée de la chartreuse;Molsheim;67120.0;48.54278;7.49023
+581;maison de l'archéologie des Vosges du Nord;Niederbronn-les-Bains;67110.0;48.947444;7.650428
+582;musée du château des Rohan;Saverne;67700.0;48.741958;7.362787
+583;musée archéologique;Strasbourg;67000.0;48.581229;7.751984
+584;musée historique;Strasbourg;67000.0;48.580579;7.749714
+585;musée sundgauvien;Altkirch;68130.0;47.623329;7.237204
+586;musée Bartholdi;Colmar;68000.0;48.076747;7.357746
+587;musée Théodore Deck et des pays du Florival;Guebwiller;68500.0;47.905522;7.214504
+588;musée historique;Kaysersberg;68240.0;48.139072;7.261441
+589;musée des beaux-arts;Mulhouse;68100.0;47.745774;7.338271
+590;musée historique;Mulhouse;68100.0;47.746642;7.338434
+591;musée paysan;Oltingue;68480.0;47.492827;7.391275
+592;musée du Dolder;Riquewihr;68340.0;48.166916;7.297406
+593;musée de l'ancien collège des jésuites;Reims;51100.0;49.246527;4.040071
+594;musée départemental Raymond Poincaré;Sampigny;55300.0;48.827583;5.50824
+595;musée Jeanne d'Arc;Vaucouleurs;55140.0;48.602652;5.666
+596;musées de la Cour d'or;Metz;57000.0;49.121051;6.177978
+597;musée du pays de Sarrebourg;Sarrebourg;57400.0;48.734975;7.055253
+598;musée départemental d'art ancien et contemporain;Epinal;88000.0;48.17326;6.446595
+599;musée Charles de Bruyères;Remiremont;88200.0;48.016142;6.593289
+600;musée de la Thiérache;Vervins;2140.0;49.834696;3.907684
+601;musée Alexandre Dumas;Villers-Cotterets;2600.0;49.253009;3.089691
+602;musée du Mont-de-Piété;Bergues;59380.0;50.969087;2.430391
+603;musée de la Chartreuse;Douai;59500.0;50.374404;3.07548
+604;musée de la Bataille de Fromelles;Fromelles;59249.0;50.60833357625654;2.851973487884077
+605;musée Henri Matisse;Le Cateau-Cambrésis;59360.0;50.105684;3.541175
+606;musée d'histoire naturelle et de géologie;Lille;59000.0;50.626639;3.066546
+607;MusVerre;Sars-Poteries;59216.0;50.164428;4.023602
+608;Muba Eugène Leroy Tourcoing / musée des beaux-arts Eugène Leroy de Tourcoing;Tourcoing;59200.0;50.724594;3.162878
+609;LaM - Lille Métropole Musée d'art moderne, d'art contemporain et d'art brut;Villeneuve-d'Ascq;59650.0;50.637497;3.148587
+610;musée de la voiture et du tourisme (annexe du musée national du château de Compiègne);Compiègne;60200.0;49.418172668861054;2.8299891671026103
+611;musée de Picardie;Amiens;80000.0;49.890413;2.295968
+612;musée d'histoire naturelle;Amiens;80000.0;49.89079127287645;2.2962542880135013
+613;musée Danicourt;Péronne;80201.0;49.93027;2.9357
+614;musée municipal;Etampes;91150.0;48.434307;2.161909
+615;musée départemental Albert-Kahn;Boulogne-Billancourt;92100.0;48.841354;2.227488
+616;musée-jardin Paul Landowski;Boulogne-Billancourt;92100.0;48.844261;2.246847
+617;musée d'art et d'histoire;Meudon;92190.0;48.806412;2.234894
+618;musée du Grand Siècle;Saint-Cloud;92210.0;48.83901;2.21992
+619;maison de Balzac;Paris;75016.0;48.855398;2.280805
+620;musée de la Libération de Paris - musée du général Leclerc - musée Jean Moulin;Paris;75015.0;48.840614;2.319773
+621;musée des Plans-reliefs;Paris;75007.0;48.858219;2.312885
+622;musée national de l'histoire et des cultures de l'immigration;Paris;75012.0;48.836753;2.390394
+623;musée Zadkine;Paris;75006.0;48.842793;2.333457
+624;musée national de la marine;Paris;75116.0;48.86425;2.293754
+625;musée Jean-Jacques Henner;Paris;75017.0;48.883045;2.307689
+626;musée de l'assistance publique - hôpitaux de Paris;Paris;75005.0;48.838805;2.356007
+627;musée du Moyen Âge - thermes et hôtel de Cluny;Paris;75005.0;48.850437;2.344553
+628;muséum national d'histoire naturelle;Paris;75005.0;48.842168;2.359933
+629;musée Rodin;Paris;75007.0;48.855868;2.31598
+630;maison natale de Louis Braille;Coupvray;77400.0;48.867372;2.712931
+631;musée municipal;Crécy-la-Chapelle;77580.0;48.85813263142596;2.908441509296712
+632;musée de Melun;Melun;77000.0;48.536398;2.658972
+633;musée des pays de Seine-et-Marne;Saint-Cyr-sur-Morin;77750.0;48.90803;3.18169
+634;musée de l'air et de l'espace;Le Bourget;93352.0;48.94681950649236;2.4355624358692265
+635;musée d'art et d'histoire Paul Eluard;Saint-Denis;93200.0;48.932336;2.355796
+636;musée de la toile de Jouy;Jouy-en-Josas;78350.0;48.768986;2.153216
+637;musée Victor Aubert;Maule;78580.0;48.908246;1.847178
+638;musée Rambolitrain;Rambouillet;78120.0;48.646025;1.823892
+639;musée départemental Maurice Denis;Saint-Germain-en-Laye;78100.0;48.892495;2.087541
+640;collections de la fondation de Coubertin;Saint-Rémy-lès-Chevreuse;78470.0;48.706544;2.069096
+641;musée municipal le vieux manoir;Orbec;14290.0;49.022096;0.406804
+642;musée de la bataille de Tilly-sur-Seulles;Tilly-sur-Seulles;14250.0;49.177537;-0.612546
+643;musée et sites archéologiques de Vieux-la-Romaine;Vieux;14930.0;49.105412;-0.431321
+644;musée paléontologique;Villers-sur-Mer;14640.0;49.328057;0.013729
+645;musée municipal;Vire;14500.0;48.835996;-0.888245
+646;musée de l'ancien évêché;Evreux;27000.0;49.023998;1.1502
+647;musée Alphonse-Georges Poulain;Vernon;27200.0;49.094855;1.484927
+648;musée Emmanuel Liais;Cherbourg;50100.0;49.6429;-1.630729
+649;musée d'Art et d'Histoire de Granville;Granville;50400.0;48.837248;-1.602814
+650;musée régional du cidre et du calvados;Valognes;50700.0;49.505993;-1.470416
+651;musée de la poêlerie;Villedieu-les-Poêles;50800.0;48.840754;-1.221648
+652;musée municipal - musée du jouet;La Ferté-Macé;61200.0;48.59056896905563;-0.3590626630746374
+653;musée départemental d'art sacré;Sées;61500.0;48.605422;0.171614
+654;Les Pêcheries, musée de Fécamp;Fécamp;76400.0;49.76179;0.36825
+655;musée de l'ancien Havre;Le Havre;76600.0;49.488805;0.114474
+656;musée municipal;Lillebonne;76170.0;49.517842;0.535803
+657;musée national de l'éducation;Rouen;76000.0;49.441397;1.101667
+658;musée Pierre Corneille;Rouen;76000.0;49.443051;1.086748
+659;musée de la mytiliculture;Esnandes;17137.0;46.250245;-1.111861
+660;musée d'art et d'histoire;Rochefort;17300.0;45.935666;-0.962523
+661;musée de la maison de Pierre Loti;Rochefort;17300.0;45.934295;-0.962724
+662;musée Bernard d'Agesci;Niort;79000.0;46.321065;-0.454107
+663;musée d'art et d'histoire Georges Turpin;Parthenay;79200.0;46.652064;-0.24942
+664;musée d'art et d'histoire Henri Barré;Thouars;79100.0;46.973531;-0.217936
+665;musée Paul Reclus;Domme;24250.0;44.803211;1.214147
+666;musée des arts et traditions populaires;Mussidan;24400.0;45.037634;0.361673
+667;musée départemental de la poupée et du jouet;Nontron;24300.0;45.527264;0.660717
+668;musée gallo-romain de Vésunna;Périgueux;24000.0;45.179999;0.71269
+669;musée archéologique;Blasimon;33540.0;44.748299;-0.074554
+670;centre national Jean Moulin;Bordeaux;33000.0;44.838651;-0.577869
+671;musée historique du vieux Libourne;Libourne;33500.0;44.91480330332367;-0.2451799495176577
+672;musée des arts et traditions populaires de la Chalosse;Montfort-en-Chalosse;40380.0;43.715749;-0.833916
+673;musée d'Art et d'Histoire du Cap de Gascogne;Saint-Sever;40500.0;43.758542;-0.572168
+674;musée archéologique;Sanguinet;40460.0;44.483822;-1.075791
+675;musée basque;Bayonne;64100.0;43.491093;-1.473823
+676;musée Charbonneau-Lassay;Loudun;86200.0;47.009976;0.075743
+677;collection d'histoire naturelle;Poitiers;86000.0;46.580584;0.348113
+678;musée Sainte-Croix;Poitiers;86000.0;46.581142;0.344434
+679;musée municipal;Lastours;11600.0;43.333993;2.379223
+680;musée des arts et métiers;Salles-la-Source;12330.0;44.430577;2.483923
+681;musée du Colombier;Alès;30100.0;44.129352;4.080982
+682;musée Léon Alègre;Bagnols-sur-Cèze;30200.0;44.164822;4.621051
+683;musée des beaux-arts;Nîmes;30000.0;43.832001;4.36081
+684;muséum d'histoire naturelle et de préhistoire;Nîmes;30033.0;43.83798099757179;4.363712139325677
+685;musée municipal Georges Borias;Uzès;30701.0;44.01264172485314;4.422302423935738
+686;musée Pierre de Luxembourg;Villeneuve-les-Avignon;30400.0;43.965433;4.796403
+687;musée-forum de l'Aurignacien;Aurignac;31420.0;43.216166;0.88003
+688;musée du vieux Toulouse;Toulouse;31000.0;43.602258;1.443132
+689;muséum d'histoire naturelle;Bagnères-de-Bigorre;65200.0;43.051963;0.147001
+690;musée municipal;Luz-Saint-Sauveur;65120.0;42.870941;-0.002108
+691;musée Massey;Tarbes;65000.0;43.232141;0.073892
+692;musée Fabre;Montpellier;34000.0;43.61135;3.880685
+693;musée Murat;Labastide-Murat;46240.0;44.645658;1.568198
+694;musée Joseph Puig;Perpignan;66000.0;42.69945;2.883256
+695;muséum d'histoire naturelle;Perpignan;66931.0;42.697731358540544;2.900461442325304
+696;musée d'histoire naturelle Philadelphe-Thomas;Gaillac;81600.0;43.89944;1.89408
+697;musée du textile;Labastide-Rouairoux;81270.0;43.476776;2.638539
+698;musée Ingres Bourdelle;Montauban;82000.0;44.017091;1.35188
+699;musées des beaux-arts;Nantes;44000.0;47.219276;-1.547096
+700;musée Jean Lurcat et de la tapisserie contemporaine;Angers;49100.0;47.477759;-0.557052
+701;musée Joseph Denais;Beaufort-en-Vallée;49250.0;47.44022;-0.217749
+702;bibliothèque-musée;Saint-Calais;72120.0;47.920368;0.743518
+703;musée du nord Vendée;Montaigu;85600.0;46.974635;-1.313386
+704;musée Picasso;Antibes;6600.0;43.580973;7.127959
+705;musée d'art et d'histoire de Provence;Grasse;6130.0;43.657615;6.922508
+706;musée de préhistoire régionale;Menton;6500.0;43.776334;7.503564
+707;musée d'art moderne et d'art contemporain;Nice;6364.0;43.701774652556;7.278984299489203
+708;musée de paléontologie de Terra Amata;Nice;6300.0;43.698046;7.288686
+709;musée du palais Lascaris;Nice;6300.0;43.697686;7.27733
+710;musée du vieux logis;Nice;6000.0;43.740194;7.238038
+711;écomusée de la Roudoule;Puget-Rostang;62060.0;43.97425297359047;6.919841120393623
+712;musée Magnelli - musée de la céramique;Vallauris;6220.0;43.579971;7.052887
+713;fondation Vasarely;Aix-en-Provence;13096.0;43.5212929153;5.42464477906
+714;musée des tapisseries;Aix-en-Provence;13100.0;43.531366;5.447546
+715;musée camarguais;Arles;13200.0;43.67679;4.61542
+716;musée de l'Arles antique;Arles;13635.0;43.672753063626814;4.617175830175759
+717;musée René Beaucaire;Istres;13808.0;43.50979987780633;4.991101411125364
+718;musée ciotaden;La Ciotat;13600.0;43.173755;5.60973
+719;musée Cantini;Marseille;13006.0;43.292383;5.378137
+720;musée Estrine;Saint-Rémy-de-Provence;13210.0;43.788801;4.832266
+721;musée de Salon et de la Crau;Salon-de-Provence;13300.0;43.64095;5.104363
+722;musée des arts et traditions populaires de moyenne Provence;Draguignan;83300.0;43.538282;6.463862
+723;musée des Beaux-Arts;Draguignan;83300.0;43.537982;6.464818
+724;musée d'archéologie gallo-romaine du Var;Fréjus;83600.0;43.43347344413099;6.736489013507804
+725;musée Jean Aicard;Solliès-Ville;83210.0;43.181724;6.039364
+726;musée Marc Deydier;Cucuron;84160.0;43.772678;5.440606
+727;musée municipal;Sault;84390.0;44.091143;5.408027
+728;musée précolombien Edgar Clerc;Le Moule;97136.0;15.850088;-61.646677
+729;musée l'Herminier;Pointe-à-Pitre;97163.0;16.238507302787937;-61.536727081391085
+730;musée Saint-John-Perse;Pointe-à-Pitre;97110.0;16.236416;-61.535945
+731;musée régional d'histoire et d'ethnologie;Fort-de-France;97200.0;14.606106;-61.065619
+732;maison de la canne;Les Trois-Ilets;97229.0;14.531893;-61.026775
+733;musées des pays de l'Ain;Bourg-en-Bresse;1000.0;46.196543;5.219217
+734;musée du Bugey-Valromey;Lochieu;1260.0;45.930633;5.727664
+735;musée de la résistance et de la déportation de l'Ain;Nantua;1130.0;46.152378;5.608744
+736;musée régional;Les Vans;7140.0;44.404332;4.131418
+737;musée de la batellerie du Rhône;Serrières;7340.0;45.317802;4.763253
+738;musée départemental du château;Grignan;26230.0;44.439013;4.873189
+739;musée des beaux-arts;Valence;26000.0;44.931125;4.889563
+740;musée de paléontologie;Chilhac;43380.0;45.148133;3.402324
+741;musée alpin;Chamonix;74400.0;45.923429;6.871049
+742;musée de Thonon-les-Bains;Thonon-les-Bains;74200.0;46.37487;6.48177
+743;musée des antiquités gallo-romaines;Aoste;38490.0;45.587605;5.60661
+744;musée Géo-Charles;Echirolles;38130.0;45.14935;5.699614
+745;musée de la résistance et de la déportation;Grenoble;38000.0;45.190041;5.735245
+746;musée Stendhal;Grenoble;38000.0;45.191481;5.728083
+747;musée Hébert - d'Uckermann;La Tronche;38700.0;45.205613;5.751334
+748;musée de la mine;Saint-Etienne;42000.0;45.438944;4.376487
+749;musée des civilisations : Daniel Pouget;Saint-Just-Saint-Rambert;42170.0;45.500657;4.242057
+750;musée rural;Usson-en-Forez;42550.0;45.392445;3.943885
+751;musée de la dentelle;Arlanc;63220.0;45.414373;3.724421
+752;muséum d'histoire naturelle Lecoq;Clermont-Ferrand;63000.0;45.774138;3.088299
+753;musée lapidaire;Mozac;63200.0;45.892133;3.094609
+754;musée des sapeurs-pompiers de Lyon;Lyon;69009.0;45.790491;4.797411
+755;musée Gadagne;Lyon;69005.0;45.763856;4.827749
+756;muséum d'histoire naturelle;Chambéry;73000.0;45.563911;5.916266
+757;musée de la sidérurgie en Bourgogne du Nord;Buffon;21500.0;47.649485;4.260891
+758;musée Noisot;Fixin;21220.0;47.245363;4.962515
+759;musée municipal;Nuits-Saint-Georges;21700.0;47.138661;4.950405
+760;musée des arts et traditions des Hautes-Côtes;Reulle-Vergy;21220.0;47.187026;4.895293
+761;musée départemental Albert Demard;Champlitte;70600.0;47.617066;5.517093
+762;musée départemental de la montagne Albert Demard;Château-Lambert;70440.0;47.836247;6.734944
+763;musée de la Tour des échevins;Luxeuil-les-Bains;70300.0;47.816821;6.380482
+764;musée de l'artisanat jurassien;Baume-les-Messieurs;39210.0;46.70795;5.648585
+765;musée lapidaire Saint-Nicolas;Autun;71400.0;46.955328;4.300179
+766;musée Vivant Denon;Chalon-sur-Saône;71100.0;46.78105;4.853082
+767;musée René Davoine;Charolles;71120.0;46.431434;4.273059
+768;musée de la tour du moulin;Marcigny;71110.0;46.274562;4.044451
+769;écomusée de la Bresse bourguignonne;Pierre-de-Bresse;71270.0;46.88298;5.261603
+770;maison du blé et du pain;Verdun-sur-le-Doubs;71350.0;46.897337;5.024918
+771;forge-musée;Etueffont;90170.0;47.722575;6.920842
+772;musée Mathurin Meheut;Lamballe;22404.0;48.46953167624482;-2.515800988211214
+773;musée;Pont-Aven;29930.0;47.855497;-3.747155
+774;musée des meilleurs ouvriers de France;Bourges;18000.0;47.081774;2.398494
+775;musée Hôtel Morin;Amboise;37400.0;47.410737;0.981446
+776;muséum d'histoire naturelle;Tours;37000.0;47.394637;0.68388
+777;musée de Minerve;Yzeures-sur-Creuse;37290.0;46.785983;0.869839
+778;musée Daniel Vannier;Beaugency;45190.0;47.777611;1.633585
+779;atelier-musée de l'imprimerie, Le Malesherbois;Malesherbes;45330.0;48.299076917985694;2.3864524975252785
+780;château musées;Blois;41000.0;47.585598;1.331665
+781;atelier musée Louis Leygue;Naveil;41100.0;47.795395;1.04019
+782;musée national de la maison Bonaparte;Ajaccio;20000.0;41.917701;8.73795
+783;musée de l'Alta-Rocca;Lévie;20170.0;41.704223;9.125161
+784;musée des beaux-arts et d'archéologie;Troyes;10000.0;48.300638;4.08003
+785;musée zoologique de l'université Louis Pasteur et de la ville de Strasbourg;Strasbourg;67000.0;48.582707;7.764645
+786;maison des Lumières Denis Diderot;Langres;52200.0;47.866417;5.331753
+787;musée de la coutellerie;Nogent-en-Bassigny;52800.0;48.02758;5.341424
+788;muséum d'histoire naturelle et d'ethnographie;Colmar;68000.0;48.073594;7.35872
+789;musée français du chemin de fer;Mulhouse;68200.0;47.732372;7.312824
+790;musée Vauban;Neuf-Brisach;68600.0;48.016144;7.525674
+791;écomusée de la montagne de Reims;Pourcy;51160.0;49.112985;4.029412
+792;musée Saint-Rémi;Reims;51100.0;49.243111;4.040351
+793;muséum-aquarium de Nancy;Nancy;54000.0;48.695072;6.188467
+794;musée d'art et d'histoire;Toul;54200.0;48.678544;5.89134
+795;maison du verre et du cristal;Meisenthal;57960.0;48.964935;7.352438
+796;musée Louis Français;Plombières-les-Bains;88370.0;47.964095;6.458494
+797;musée Pierre Noël - musée de la vie dans les Hautes-Vosges;Saint-Dié-des-Vosges;88100.0;48.295658;6.947961
+798;musée Jeanne d'Aboville;La Fère;2800.0;49.661954;3.367748
+799;musée municipal;Cambrai;59400.0;50.17347;3.229635
+800;musée de Flandre;Cassel;59670.0;50.799755;2.48621
+801;musée des dentelles et broderies;Caudry;59540.0;50.124558;3.410691
+802;musée d'art contemporain;Dunkerque;59240.0;51.04527160424991;2.383243784876889
+803;musée des beaux-arts;Dunkerque;59140.0;51.037327;2.375518
+804;musée des beaux-arts;Lille;59000.0;50.621132;3.068387
+805;musée de la Tour abbatiale;Saint-Amand-les-Eaux;59230.0;50.448711;3.427672
+806;musée des beaux-arts;Valenciennes;59300.0;50.35582;3.53105
+807;musée de la céramique architecturale et industrielle;Auneuil;60390.0;49.371534;1.99164
+808;musée Gallé-Juillet;Creil;60100.0;49.260793;2.473388
+809;musée d'art et d'archéologie;Senlis;60300.0;49.20653;2.585615
+810;musée archéologique de l'Oise;Vendeuil-Caply;60120.0;49.627157;2.316919
+811;musée d'ethnologie régionale;Béthune;62400.0;50.53621;2.648177
+812;cité internationale de la dentelle et de la mode;Calais;62100.0;50.950474;1.860013
+813;musée de la céramique;Desvres;62240.0;50.666603;1.83876
+814;musée Quentovic;Etaples;62630.0;50.513895;1.637621
+815;musée d'histoire et d'archéologie;Harnes;62440.0;50.451493;2.903226
+816;musée Henri Dupuis;Saint-Omer;62500.0;50.748349;2.251197
+817;musée municipal;Saint-Pol-sur-Ternoise;62130.0;50.381512;2.337066
+818;musée départemental de la vie rurale;Saint-Riquier;80135.0;50.132403;1.946543
+819;musée français de la carte à jouer et galerie d'histoire de la ville;Issy-les-Moulineaux;92130.0;48.822771;2.273453
+820;musée des automates;Neuilly-sur-Seine;92200.0;48.879608;2.252754
+821;musée national de la céramique;Sèvres;92310.0;48.817037;2.205733
+822;maison de Victor Hugo;Paris;75004.0;48.854808;2.366232
+823;musée Carnavalet - histoire de Paris;Paris;75003.0;48.85699;2.362856
+824;musée Yves Saint Laurent Paris;Paris;75116.0;48.873694;2.280339
+825;Petit Palais, musée des beaux-arts de la ville de Paris;Paris;75008.0;48.86609;2.313763
+826;musée des arts asiatiques Guimet;Paris;75116.0;48.86425;2.293754
+827;musée national de la Légion d'honneur et des ordres de chevalerie;Paris;75007.0;48.860294;2.324768
+828;musée de l'école de Barbizon - auberge Ganne;Barbizon;77630.0;48.446181;2.602464
+829;musée Alfred Bonno;Chelles;77500.0;48.87766;2.591845
+830;musée national du château de Fontainebleau;Fontainebleau;77300.0;48.402815;2.696858
+831;musée Bossuet;Meaux;77100.0;48.938016;2.87061
+832;musée de la Grande Guerre;Meaux;77100.0;48.955281;2.901461
+833;musée municipal;Moret-sur-Loing;77250.0;48.373638;2.815046
+834;musée de préhistoire d'Île-de-France;Nemours;77140.0;48.260312;2.714321
+835;musée du vieil Argenteuil;Argenteuil;95100.0;48.946909;2.249331
+836;musée archéologique départemental du Val d'Oise;Guiry-en-Vexin;95450.0;49.108589;1.849395
+837;musée d'art et d'histoire Louis Senlecq;L'Isle-Adam;95290.0;49.112285;2.21638
+838;musée Jean-Jacques Rousseau;Montmorency;95160.0;48.986892;2.320916
+839;musée Tavet Delacour;Pontoise;95300.0;49.050929;2.099776
+840;musée Emile Jean;Villiers-sur-Marne;94350.0;48.826701;2.543144
+841;maison-musée Maurice Ravel;Montfort-l'Amaury;78490.0;48.776137;1.805464
+842;musée municipal Ducastel-Vera de Saint-Germain-en-Laye;Saint-Germain-en-Laye;78000.0;48.794403;2.127681
+843;musée national des châteaux de Versailles et de Trianon;Versailles;78000.0;48.804537;2.134053
+844;Tapisserie de Bayeux - MAHB musée d'art et d'histoire Baron Gérard;Bayeux;14402.0;49.27615187407017;-0.7030630310500277
+845;musée Langlois;Beaumont-en-Auge;14950.0;49.263268;0.107383
+846;musée Nicolas Poussin;Les Andelys;27700.0;49.245827;1.420009
+847;musée municipal de l'Avranchin;Avranches;50300.0;48.687696;-1.363384
+848;musée des beaux-arts;Saint-Lô;50000.0;49.116174;-1.087574
+849;maison des templiers;Caudebec-en-Caux;76490.0;49.525351;0.725967
+850;pavillon Flaubert;Dieppedalle-Croisset;76380.0;49.435017;1.031203
+851;musée Louis Philippe;Eu;76260.0;50.049138;1.418369
+852;musée de l'armateur;Le Havre;76600.0;49.486857;0.112815
+853;musée Mathon-Durand;Neufchâtel-en-Bray;76270.0;49.730766;1.436734
+854;musée de la céramique;Rouen;76000.0;49.445543;1.093846
+855;musée des beaux-arts;Rouen;76000.0;49.44499;1.09396
+856;musée Victor Hugo;Villequier;76490.0;49.511951;0.673374
+857;musée municipal du Cognac;Cognac;16100.0;45.695744;-0.326186
+858;musée protestant;La Rochelle;17000.0;46.159482;-1.150024
+859;musée Capon;Marans;17230.0;46.309723;-0.991941
+860;musée de l'Echevinage;Saintes;17100.0;45.745991;-0.633096
+861;musée oléronais Aliénor d'Aquitaine;Saint-Pierre-d'Oléron;17310.0;45.942781;-1.307498
+862;musée d'art et d'archéologie;Guéret;23000.0;46.165838;1.870758
+863;musée municipal;Bressuire;79300.0;46.841873;-0.493243
+864;musée ethnographique et archéologique du Donjon;Niort;79000.0;46.329091;-0.509253
+865;musée national de préhistoire;Les Eyzies;24620.0;44.93608;1.01363
+866;musée Eugène Le Roy;Montignac-sur-Vézère;24290.0;45.063722;1.163336
+867;musée d'art et d'archéologie du Périgord;Périgueux;24000.0;45.186039;0.72395
+868;musée d'art et d'histoire du pays blayais;Blaye;33390.0;45.126358;-0.66364
+869;musée des arts décoratifs et du design;Bordeaux;33000.0;44.838956;-0.579686
+870;musée municipal;La Réole;33190.0;44.581128;-0.041074
+871;musée des beaux-arts et d'archéologie;Libourne;33500.0;44.914487;-0.245068
+872;musée d'histoire et d'archéologie;Saint-Emilion;33330.0;44.89461759278015;-0.1557084306346911
+873;musée départemental d'Histoire et d'Archéologie;Hastingues;40300.0;43.52735;-1.12142
+874;écomusée de la Grande Lande;Sabres;40630.0;44.149414;-0.749433
+875;musée municipal Albert Marzelles;Marmande;47200.0;44.498918;0.166067
+876;musée municipal;Sauveterre-la-Lémance;47500.0;44.597987;1.017451
+877;musée municipal de Gajac;Villeneuve-sur-Lot;47300.0;44.405095;0.707815
+878;musée du textile et du peigne en corne;Lavelanet;9300.0;42.929968;1.845351
+879;musée de la préhistoire;Le Mas-d'Azil;9290.0;43.079849;1.360358
+880;musée Petiet;Limoux;11300.0;43.053489;2.2143
+881;musée Joseph Vaylet;Espalion;12500.0;44.521365;2.762702
+882;musée-bibliothèque Pierre-André Benoit;Alès;30100.0;44.130014;4.070265
+883;musée municipal de la Vignasse;Beaucaire;30300.0;43.808182;4.642712
+884;maison Rouge - musée des vallées cévenoles;Saint-Jean-du-Gard;30270.0;44.104188;3.887004
+885;musée d'archéologie;Lectoure;32700.0;43.933873;0.638007
+886;musée municipal;Martres-Tolosane;31220.0;43.199447;1.010287
+887;musée Saint-Raymond;Toulouse;31000.0;43.608897;1.441776
+888;muséum d'histoire naturelle;Toulouse;31000.0;43.594189;1.448945
+889;musée-château Gaston Phébus;Mauvezin;65130.0;43.114294;0.282555
+890;musée de l'étang de Thau;Bouzigues;34140.0;43.446763;3.660714
+891;musée archéologique;Minerve;34210.0;43.354299;2.746165
+892;musée Henri Martin;Cahors;46000.0;44.448506;1.438286
+893;musée d'histoire de Figeac;Figeac;46100.0;44.613443;2.016469
+894;musée gallo-romain d'Uxellodunum;Martel;46600.0;44.93690534377903;1.609271436294827
+895;musée municipal;Vayrac;46110.0;44.952495;1.703507
+896;musée archéologique de Ruscino;Perpignan;66000.0;42.709124;2.945875
+897;musée Eugénie et Maurice Guérin;Andillac (Le Cayla);81140.0;44.010155;1.899025
+898;musée de l'abbaye Saint-Michel;Gaillac;81600.0;43.897983;1.895761
+899;musée des Marais salants;Batz-sur-Mer;44740.0;47.278542;-2.478054
+900;musée Dobrée;Nantes;44000.0;47.211788;-1.566123
+901;muséum d'histoire naturelle;Nantes;44000.0;47.212385;-1.564652
+902;écomusée;Saint-Nazaire;44600.0;47.273813;-2.198174
+903;musée d'art et d'histoire;Cholet;49300.0;47.058385;-0.882284
+904;musée du textile;Cholet;49300.0;47.069473;-0.897677
+905;château-musée de Saumur;Saumur;49408.0;47.25728921356893;-0.0719175041209559
+906;musée municipal;Ernée;53500.0;48.296148;-0.933518
+907;musée du vieux château;Laval;53000.0;48.068652;-0.77221
+908;musée La Bourrine du Bois-Juquaud;Saint-Hilaire-de-Riez;85270.0;46.757962;-1.953276
+909;musée de la vallée;Barcelonnette;4400.0;44.387609;6.655077
+910;musée de la faïence;Moustiers-Sainte-Marie;4360.0;43.846892;6.220175
+911;musée archéologique;Riez-la-Romaine;4500.0;43.815415;6.08717
+912;musée d'histoire locale;Biot;6410.0;43.627369;7.098469
+913;musée des beaux-arts;Menton;6500.0;43.766659;7.4884
+914;musée Masséna;Nice;6000.0;43.695672;7.259251
+915;musée national Message biblique Marc Chagall;Nice;6000.0;43.70922;7.2688
+916;musée Granet;Aix-en-Provence;13100.0;43.494315;5.410889
+917;musée Paul Arbaud;Aix-en-Provence;13100.0;43.526201;5.449931
+918;musée Frédéric Mistral;Maillane;13910.0;43.831079;4.782653
+919;musée Ziem;Martigues;13500.0;43.408336;5.054107
+920;musée des Alpilles Pierre de Brun;Saint-Rémy-de-Provence;13210.0;43.789218;4.831075
+921;musée de l'Emperi;Salon-de-Provence;13300.0;43.640227;5.096576
+922;musée départemental des Hautes-Alpes;Gap;5000.0;44.562625;6.085573
+923;musée de l'artillerie;Draguignan;83300.0;43.529648;6.495058
+924;musée archéologique;Fréjus;83600.0;43.433569;6.736721
+925;musée archéologique;Saint-Raphaël;83700.0;43.42598957834058;6.769881214825955
+926;musée du Petit Palais;Avignon;84000.0;43.951088;4.806317
+927;musées Comtadin et Duplessis;Carpentras;84200.0;44.0543;5.045479
+928;musée Jouve;Cavaillon;84300.0;43.837324;5.038776
+929;musée-bibliothèque Pétrarque;Fontaine-de-Vaucluse;84800.0;43.91753;5.056541
+930;musée municipal;Orange;84100.0;44.135887;4.807526
+931;écomusée de Marie-Galante;Grand-Bourg;97112.0;15.876666;-61.298004
+932;musée départemental Alexandre Franconie;Cayenne;97300.0;4.938177;-52.334359
+933;musée Léon Dierx;Saint-Denis-de-la-Réunion;97400.0;-20.883698;55.450251
+934;musée départemental d'archéologie;Fort-de-France;97200.0;14.60331;-61.068675
+935;muséum d'histoire naturelle;Fort-de-France;97200.0;14.624376;-61.049824
+936;musée de la société d'histoire et d'archéologie;Briord;1470.0;45.781653;5.458569
+937;domaine des Saveurs – Les Planons;Saint-Cyr-sur-Menthon;1380.0;46.282489;4.986729
+938;musée du Revermont;Treffort-Cuisiat;1000.0;46.209952;5.243955
+939;musée Anne de Beaujeu;Moulins;3000.0;46.56707;3.331218
+940;musée archéologique;Soyons;7130.0;44.887803;4.850777
+941;écomusée de la Margeride;Ruynes-en-Margeride;15320.0;45.000522;3.224427
+942;musée de la Haute Auvergne;Saint-Flour;15100.0;45.0343;3.092979
+943;musée d'histoire et d'archéologie;Die;26150.0;44.75504;5.369785
+944;musée du château des Adhémar;Montélimar;26200.0;44.556294;4.750056
+945;musée archéologique;Saint-Paul-Trois-Châteaux;26130.0;44.349149;4.768163
+946;musée des manufactures de dentelles;Retournac;43130.0;45.202566;4.035268
+947;musée de la ferblanterie;Saint-Arcons-d'Allier;43300.0;45.067807;3.548896
+948;musée de Bourgoin-Jallieu;Bourgoin-Jallieu;38300.0;45.586588;5.279159
+949;conservatoire-musée des industries hydroélectriques;Grand'Maison;38114.0;45.147612;6.049634
+950;musée dauphinois;Grenoble;38031.0;45.1951875353051;5.726944536301466
+951;musée de Grenoble;Grenoble;38000.0;45.194026;5.732094
+952;musée Saint-Laurent;Grenoble;38000.0;45.19778;5.731922
+953;muséum d'histoire naturelle;Grenoble;38000.0;45.188059;5.735163
+954;maison du patrimoine;Hières-sur-Ambly;38118.0;45.797246;5.292625
+955;musée du pays matheysin;La Mure;38350.0;44.904362;5.784427
+956;maison du patrimoine de l'Oisans;L'Alpe-d'Huez;38750.0;45.087019;6.068988
+957;musée hospitalier;Charlieu;42190.0;46.160301;4.17052
+958;musée du chapeau;Chazelles-sur-Lyon;42140.0;45.638304;4.394089
+959;musée du vieux Pommiers;Pommiers-en-Forez;42260.0;45.830522;4.104776
+960;château de la Bastie d'Urfé;Saint-Etienne-le-Molard;42130.0;45.728472;4.078512
+961;musée municipal;Saint-Germain-Laval;42260.0;45.830168;4.010608
+962;musée régional d'Auvergne;Riom;63200.0;45.895037;3.116254
+963;musée municipal de la coutellerie;Thiers;63300.0;45.852318;3.548029
+964;musée Barthélemy-Thimonier;Amplepuis;69550.0;45.972502;4.331417
+965;musée folklorique et des traditions populaires;Beaujeu;69430.0;46.154524;4.587482
+966;musée d'art contemporain;Lyon;69006.0;45.784864;4.852921
+967;musée des hospices civils de Lyon;Lyon;69002.0;45.760912;4.831492
+968;musée archéologique;Saint-Romain-en-Gal;69483.0;45.52955632679911;4.8731588394774645
+969;musée du costume;Bourg-Saint-Maurice;73700.0;45.597053;6.760997
+970;musée des beaux-arts;Chambéry;73000.0;45.567896;5.919306
+971;musée du vin de Bourgogne;Beaune;21200.0;47.023618;4.837574
+972;musée de la vie bourguignonne;Dijon;21000.0;47.317415;5.037131
+973;musée national Magnin;Dijon;21000.0;47.320958;5.042189
+974;musée Rude;Dijon;21000.0;47.32122;5.043978
+975;muséum d'histoire naturelle;Dijon;21000.0;47.322357;5.025636
+976;musée François Pompon;Saulieu;21210.0;47.279459;4.229714
+977;musée municipal;Semur-en-Auxois;21140.0;47.490137;4.336452
+978;musée du château;Montbéliard;25205.0;47.509529802783824;6.800857556367602
+979;musée de plein air des maisons comtoises;Nancray;25360.0;47.242984;6.18963
+980;musée des beaux-arts et d'archéologie;Dole;39100.0;47.089059;5.488205
+981;musée des beaux-arts;Lons-le-Saunier;39000.0;46.675861;5.553907
+982;musée du jouet;Moirans-en-Montagne;39260.0;46.433004;5.726307
+983;musée du costume;Château-Chinon;58120.0;47.06721;3.934311
+984;musée de la Loire;Cosne-Cours-sur-Loire;58200.0;47.410548;2.922768
+985;musée archéologique de la porte du Croux;Nevers;58000.0;46.986949;3.154223
+986;musée Auguste Grasset;Varzy;58210.0;47.357394;3.386114
+987;musée Saint-Nazaire;Bourbon-Lancy;71140.0;46.624065;3.768545
+988;musée du Prieuré Jean Laronze;Charolles;71120.0;46.432412;4.279872
+989;musée eucharistique du Hiéron;Paray-le-Monial;71600.0;46.451822;4.123021
+990;musée du terroir;Romenay;71470.0;46.503251;5.067591
+991;cabinet d'un amateur - donation Maurice Jardot;Belfort;90000.0;47.642439;6.855466
+992;musée Leblanc-Duvernoy;Auxerre;89000.0;47.795393;3.566248
+993;musée d'art naïf;Noyers-sur-Serein;89310.0;47.721479;3.966518
+994;musée de l'aventure du son;Saint-Fargeau;89170.0;47.640663;3.070586
+995;musée municipal;Tonnerre;89700.0;47.8559;3.97555
+996;musée Zervos;Vézelay;89450.0;47.464133;3.74361
+997;musée villeneuvien;Villeneuve-sur-Yonne;89500.0;48.080518;3.294126
+998;musée d'art et d'histoire;Saint-Brieuc;22000.0;48.512139;-2.762171
+999;musée des beaux-arts;Brest;29200.0;48.38529;-4.489963
+1000;écomusée des monts d'Arrée;Commana;29450.0;48.41588618665521;-4.006272428689588
+1001;écomusée de la Bintinais;Rennes;35200.0;48.079557;-1.665571
+1002;musée de Bretagne;Rennes;35000.0;48.105455;-1.674922
+1003;musée des rochers de Sévigné;Vitré;35500.0;48.080418;-1.169805
+1004;musée du château;Vitré;35506.0;48.12588457843864;-1.211799050981162
+1005;musée de la carte postale;Baud;56150.0;47.875046;-3.016911
+1006;musée de la Compagnie des Indes;Port-Louis;56290.0;47.709147;-3.362581
+1007;musée de la résistance bretonne;Saint-Marcel;56140.0;47.800618;-2.432273
+1008;musée des arts décoratifs;Bourges;18000.0;47.084683;2.398383
+1009;muséum des sciences naturelles et de préhistoire;Chartres;28000.0;48.441822;1.490983
+1010;conservatoire du machinisme et des pratiques agricoles;Chartres-Mainvilliers;28000.0;48.44690286097676;1.4768748419423503
+1011;musée Bertrand;Châteauroux;36000.0;46.813737;1.694262
+1012;musée de l'hospice Saint Roch;Issoudun;36100.0;46.945408;1.994379
+1013;musée George Sand et de la vallée noire;La Châtre;36400.0;46.581939;1.989964
+1014;musée de géologie régionale;Langé;36600.0;47.073893;1.513405
+1015;musée du terroir;Loches;37600.0;47.128196;0.994671
+1016;musée municipal;Sainte-Maure-de-Touraine;37800.0;47.111569;0.619769
+1017;collections du musée de la société archéologique de Touraine;Tours;37000.0;47.395094;0.684809
+1018;musée des beaux-arts;Tours;37000.0;47.394698;0.694004
+1019;château-musée de Gien : chasse, histoire et nature en Val de Loire;Gien;45500.0;47.68592;2.630092
+1020;musée de la Corbillière;Mer;41500.0;47.697723;1.503586
+1021;musée de préhistoire corse;Sartène;20100.0;41.620485;8.973941
+1022;musée Jérôme Carcopino;Aléria;20270.0;42.113417;9.512108
+1023;musée;Givet;8600.0;50.13658229142993;4.824527313060885
+1024;musée du château-fort;Sedan;8200.0;49.695347;4.919074
+1025;musée de la Résistance de l'Aube;Mussy-sur-Seine;10250.0;47.977352;4.498923
+1026;musée Camille Claudel;Nogent-sur-Seine;10400.0;48.494242;3.500892
+1027;musée de la bonneterie;Troyes;10000.0;48.294239;4.071824
+1028;muséum d'histoire naturelle;Troyes;10000.0;48.300638;4.08003
+1029;musée de la poterie;Betschdorf;67660.0;48.900348;7.914409
+1030;musée des arts décoratifs;Strasbourg;67000.0;48.581229;7.751984
+1031;musée des beaux-arts;Strasbourg;67000.0;48.581229;7.751984
+1032;musée de la bataille du 6 août 1870;Woerth;67360.0;48.938618;7.747992
+1033;musée des beaux-arts et d'archéologie;Chaumont;52000.0;48.112482;5.137331
+1034;musée de la porte de Thann;Cernay;68700.0;47.809586;7.174264
+1035;musée d'Unterlinden;Colmar;68000.0;48.079918;7.355464
+1036;musée de l'impression sur étoffes;Mulhouse;68072.0;47.74501942419962;7.345379580548642
+1037;musée du sapeur-pompier;Mulhouse;68480.0;47.504301;7.304287
+1038;musée minéralogique de la société industrielle de Mulhouse;Mulhouse;68100.0;47.73132;7.310303
+1039;musée du papier peint;Rixheim;68170.0;47.744135;7.397424
+1040;écomusée d'Alsace;Ungersheim;68190.0;47.878584;7.304447
+1041;musée Garinet;Châlons-en-Champagne;51000.0;48.955859;4.366501
+1042;musée Les sources d'Hercule;Deneuvre;54120.0;48.446385;6.734719
+1043;musée de l'Ecole de Nancy;Nancy;54000.0;48.680494;6.166351
+1044;musée de la céramique et de l'ivoire;Commercy;55200.0;48.76331;5.58962
+1045;musée Jules Bastien-Lepage - musée de la fortification;Montmédy;55600.0;49.523594;5.348511
+1046;musée de la bière et du pays de Stenay;Stenay;55700.0;49.48769;5.186786
+1047;musée d'Argonne;Varennes-en-Argonne;55270.0;49.226057;5.033072
+1048;musée de la guerre de 1870;Gravelotte;57130.0;49.113679;6.029871
+1049;musée de la mine - carreau Wendel;Petite-Rosselle;57540.0;49.20684;6.848979
+1050;musée de la Tour-aux-Puces;Thionville;57125.0;49.35817096733886;6.169267003245504
+1051;musée de la lutherie;Mirecourt;88503.0;48.30159282877004;6.135440439964067
+1052;musée franco-américain du château de Blérancourt;Blérancourt;2300.0;49.516035;3.150459
+1053;musée - centre de documentation Alfred Desmasures;Hirson;2500.0;49.921047;4.083876
+1054;musée Théophile Jouglet;Anzin;59410.0;50.372162;3.502134
+1055;musée Benoît de Puydt;Bailleul;59270.0;50.740715;2.734399
+1056;musée de l'Ostrevant;Bouchain;59111.0;50.284847;3.317909
+1057;musée municipal;Escaudain;59124.0;50.327784;3.343632
+1058;musée du dessin et de l'estampe originale;Gravelines;59820.0;50.992478;2.159542
+1059;musée municipal;Hazebrouck;59190.0;50.721177;2.535346
+1060;musée Henri Boez;Maubeuge;59607.0;50.28041196902142;3.967683057337368
+1061;musée Condé;Chantilly;60631.0;49.19397;2.48522
+1062;musée de la figurine historique;Compiègne;60200.0;49.417761;2.826358
+1063;musée d'Opale Sud;Berck-sur-Mer;62600.0;50.405092;1.567687
+1064;musée de Boulogne-sur-Mer;Boulogne-sur-Mer;62200.0;50.725617;1.616349
+1065;musée Cazin;Samer;62830.0;50.617493;1.830274
+1066;musée Boucher de Perthes;Abbeville;80100.0;50.10712;1.833193
+1067;musée Lombart;Doullens;80600.0;50.157436;2.343267
+1068;musée des années trente;Boulogne-Billancourt;92100.0;48.834945;2.241177
+1069;musée Paul Belmondo et de la sculpture figurative du XXe siècle;Boulogne-Billancourt;92100.0;48.834945;2.241177
+1070;musée des transports urbains, interurbains et ruraux;Chelles;77500.0;48.87682;2.603374
+1071;fondation Arp;Clamart;92140.0;48.803529;2.244319
+1072;musée national des châteaux de Malmaison et de Bois Préau;Rueil-Malmaison;92500.0;48.873334;2.1689
+1073;musée des Avelines - musée d'art et d'histoire de Saint-Cloud;Saint-Cloud;92210.0;48.842497;2.208286
+1074;musée d'art et d'histoire de l'hôpital Sainte-Anne;Paris;75014.0;48.830264;2.340376
+1075;musée de la vie romantique;Paris;75009.0;48.880899;2.333278
+1076;musée des monuments français;Paris;75016.0;48.862323;2.281879
+1077;Palais Galliera, musée de la mode et de la ville de Paris;Paris;75116.0;48.86613680546336;2.297248499625773
+1078;musée des arts décoratifs (Union centrale des arts décoratifs);Paris;75001.0;48.863218;2.3333
+1079;musée du Louvre;Paris;75058.0;48.86079459806906;2.3378156596817785
+1080;musée d'art et d'histoire du judaïsme;Paris;75003.0;48.86095;2.355608
+1081;musée des monnaies et médailles;Paris;75006.0;48.857003;2.338699
+1082;musée Hébert;Paris;75006.0;48.847429;2.322709
+1083;musée d'Orsay;Paris;75007.0;48.859157;2.323672
+1084;musée d'art et d'histoire militaire;Fontainebleau;77300.0;48.406893;2.698781
+1085;musée Henri Chapu;Le Mée-sur-Seine;77350.0;48.534859;2.635235
+1086;musée Daubigny;Auvers-sur-Oise;95430.0;49.071480153019486;2.171783250055156
+1087;musée de la Renaissance - château d'Ecouen;Ecouen;95440.0;49.015862;2.378424
+1088;ARCHÉA, Archéologie en Pays de France;Louvres;95380.0;49.041117;2.50695
+1089;écomusée;Fresnes;94260.0;48.75525;2.326389
+1090;musée Fragonard;Maisons-Alfort;94704.0;48.81278282657873;2.4233629652344084
+1091;musée;Nogent-sur-Marne;94130.0;48.84026;2.484292
+1092;musée d'art contemporain du Val-de-Marne;Vitry-sur-Seine;94400.0;48.792821;2.387072
+1093;musée de Port-Royal des Champs;Magny-les-Hameaux;78114.0;48.748437;2.01579
+1094;musée de l'hôtel-Dieu;Mantes-la-Jolie;78200.0;48.990874;1.719901
+1095;musée du domaine royal de Marly Louveciennes/Marly-le-Roi;Marly-le-Roi-Louveciennes;78160.0;48.859572;2.109482
+1096;musée Zola-Dreyfus;Médan;78670.0;48.952745;1.995035
+1097;musée d'archéologie nationale (des origines à l'an mille) - château de Saint-Germain-en-Laye;Saint-Germain-en-Laye;78100.0;48.897879;2.094936
+1098;musée Lambinet;Versailles;78000.0;48.808966;2.130624
+1099;musée du Débarquement;Arromanches;14117.0;49.339971;-0.62156
+1100;musée de la meunerie - moulin de Marcy;Le Molay-Littry;14330.0;49.227605;-0.904606
+1101;musée du château;Pontécoulant;14110.0;48.896128;-0.587689
+1102;château;Saint-Germain-de-Livet;14100.0;49.074299;0.191032
+1103;musée des techniques fromagères;Saint-Pierre-sur-Dives;14170.0;49.0196;-0.033249
+1104;musée municipal;Bernay;27300.0;49.088944;0.598806
+1105;musée des instruments à vent;La Couture-Boussey;27750.0;48.908972;1.386877
+1106;musée municipal;Louviers;27400.0;49.215649;1.168552
+1107;musée du Poiré;Barenton;50720.0;48.587979;-0.806137
+1108;musée Thomas Henry;Cherbourg;50100.0;49.638452;-1.625439
+1109;musée municipal;Equeurdreville-Hainneville;50120.0;49.64899337142963;-1.6526443524701655
+1110;musée du bocage normand, ferme du bois Jugan;Saint-Lô;50000.0;49.114654;-1.074964
+1111;musée du Granit;Saint-Michel-de-Montjoie;50670.0;48.774021;-1.037895
+1112;musée des beaux-arts et de la dentelle;Alençon;61000.0;48.431484;0.083508
+1113;musée du château de Flers;Flers;61104.0;48.76963604017967;-0.5149048823720657
+1114;musée percheron;Mortagne-au-Perche;61400.0;48.521951;0.547043
+1115;musée municipal;Barentin;76360.0;49.545218;0.952073
+1116;château-musée;Dieppe;76200.0;49.923908;1.071756
+1117;musée municipal;Elbeuf;76500.0;49.285546;1.006479
+1118;musée Flaubert et d'histoire de la médecine;Rouen;76000.0;49.445232;1.081736
+1119;musée municipal des ivoires;Yvetot;76190.0;49.617332;0.754906
+1120;atelier-musée du papier;Angoulême;16000.0;45.653356;0.149932
+1121;musée archéologique et historique;Angoulême;16000.0;45.647813;0.160838
+1122;musée de la bande dessinée - centre national de la bande dessinée et de l'image;Angoulême;16012.0;45.65559977477438;0.1512226804929682
+1123;musée des beaux-arts;Angoulême;16000.0;45.6493;0.152569
+1124;musée archéologique;Saintes;17100.0;45.741605;-0.627956
+1125;musée Labenche;Brive;19100.0;45.158512;1.535911
+1126;musée du cloître;Tulle;19000.0;45.267654;1.770791
+1127;musée d'histoire naturelle;Niort;79000.0;46.321168;-0.454351
+1128;musée militaire - souvenirs du Périgord;Périgueux;24000.0;45.183285;0.720943
+1129;musée de site médiéval;Saint-Avit-Senieur;24440.0;44.77393;0.815624
+1130;musée des beaux-arts;Bordeaux;33000.0;44.838056;-0.579413
+1131;muséum d'histoire naturelle;Bordeaux;33000.0;44.848154;-0.580085
+1132;musée René Baubérot;Châteauponsac;87290.0;46.13125;1.274322
+1133;musée de la porcelaine Adrien Dubouché;Limoges;87000.0;45.832531;1.252114
+1134;musée du liège et du bouchon;Mézin;47170.0;44.056939;0.256362
+1135;musée du château;Nérac;47600.0;44.135038;0.339995
+1136;musée municipal;Arudy;64260.0;43.105742;-0.427534
+1137;musée Edmond Rostand;Cambo-les-Bains;64250.0;43.366872;-1.41606
+1138;musée gallo-romain;Claracq;64330.0;43.514297;-0.303415
+1139;musée municipal;Guéthary;64210.0;43.425653;-1.609198
+1140;musée archéologique et d'ethnographie locale;Chauvigny;86300.0;46.57103543157692;0.6478487283875319
+1141;"musée municipal ""Eburomagus, musée archéologique""";Bram;11150.0;43.243772;2.116173
+1142;musée des beaux-arts;Carcassonne;11000.0;43.211552;2.355531
+1143;musée Narbo Via;Narbonne;11100.0;43.17593363663495;3.0261852745179603
+1144;musée Fenaille;Rodez;12000.0;44.349201;2.576408
+1145;musée du charroi rural;Salmiech-Cassagnes;12120.0;44.202302;2.587674
+1146;musée Urbain Cabrol;Villefranche-de-Rouergue;12200.0;44.351353;2.036793
+1147;musée cévenol;Le Vigan;30120.0;43.988997;3.606934
+1148;musée de la Romanité;Nîmes;30000.0;43.837616;4.362815
+1149;musée du vieux Nîmes;Nîmes;30000.0;43.838204;4.359619
+1150;musée départemental d'art sacré;Pont-Saint-Esprit;30130.0;44.255204;4.650869
+1151;musée de la maison Romane;Saint-Gilles-du-Gard;30800.0;43.676985;4.431238
+1152;musée agathois;Agde;34300.0;43.311837;3.468587
+1153;musée du biterrois;Béziers;34500.0;43.338908;3.215208
+1154;musée Louis Médard;Lunel;34400.0;43.675458;4.133656
+1155;musée de l'hôtel d'Espeyran;Montpellier;34000.0;43.611112;3.880183
+1156;musée du vieux Montpellier;Montpellier;34000.0;43.610788;3.878349
+1157;musée Vulliod de Saint-Germain;Pézenas;34120.0;43.461352;3.422892
+1158;musée de préhistoire Amédée Lémozi;Cabrerets;46330.0;44.505455;1.653939
+1159;musée de l'automate;Souillac;46200.0;44.893995;1.47721
+1160;musée du Gévaudan;Mende;48000.0;44.518396;3.499291
+1161;musée d'art moderne;Céret;66400.0;42.485799;2.74849
+1162;musée municipal Jean Peské;Collioure;66190.0;42.524426;3.089905
+1164;musée Raymond Lafage;L'Isle-sur-Tarn;81310.0;43.852892;1.811377
+1165;musée Théodore Calbet;Grisolles;82170.0;43.827651;1.294738
+1166;musée des arts et traditions populaires;Moissac;82200.0;44.105697;1.085296
+1167;musée d'histoire naturelle Victor-Brun;Montauban;82000.0;44.017099;1.351385
+1168;musée de préhistoire;Saint-Antoine-Noble-Val;82140.0;44.15188;1.756727
+1169;musée des beaux-arts et galerie David-d'Angers;Angers;49100.0;47.469659;-0.555485
+1170;musée Pincé;Angers;49100.0;47.471767;-0.551841
+1171;muséum des sciences naturelles;Angers;49100.0;47.473467;-0.546399
+1172;musée d'art moderne de Fontevraud - collection Martine et Léon Cligman;Fontevraud;49590.0;47.18198;0.05295
+1173;musée de l'ardoise;Trélazé;49800.0;47.450792;-0.491518
+1174;musée des tisserands mayennais;Ambrières-les-Vallées;53300.0;48.402909;-0.630644
+1175;musée d'art et d'archéologie;Château-Gontier;53204.0;47.82914894790312;-0.7039436064897823
+1176;musée de la reine Bérengère;Le Mans;72000.0;48.008953;0.1977
+1177;musée vert Véron-de-Forbonnais;Le Mans;72100.0;47.986868;0.208417
+1178;centre minier;Faymoreau-les-Mines;85240.0;46.55525;-0.630566
+1179;musée de Fontenay-le-Comte;Fontenay-le-Comte;85200.0;46.46746223448963;-0.806809739064941
+1180;musée municipal;La Roche-sur-Yon;85000.0;46.669265;-1.428828
+1181;musée Clémenceau et de Lattre de Tassigny;Mouilleron-en-Pareds;85390.0;46.675283;-0.849535
+1182;musée de Salagon;Mane;4300.0;43.93798;5.76727
+1183;musée départemental de préhistoire;Quinson;4500.0;43.709854;6.040734
+1184;musée archéologique;Reillanne (Vachères);4110.0;43.93598226424194;5.654370035822609
+1185;musée gallo-romain Sisteron;Sisteron;4200.0;44.197595;5.944839
+1186;musée national Fernand Léger;Biot;6410.0;43.620705;7.112317
+1187;musée-château;Cagnes-sur-Mer;6800.0;43.666892;7.145213
+1188;musée Fragonard;Grasse;6130.0;43.656739;6.921091
+1189;musée international de la parfumerie;Grasse;6130.0;43.658385;6.922
+1190;musée Bonnard;Le Cannet;6110.0;43.576273;7.019853
+1191;musée départemental des arts asiatiques;Nice;6200.0;43.678077;7.215461
+1192;musée national du sport;Nice;6200.0;43.703829;7.191059
+1193;musée des merveilles;Tende;6430.0;44.088854;7.593216
+1194;musée national de Vallauris (la Guerre et la Paix de Picasso);Vallauris;6220.0;43.579971;7.052887
+1195;musée d'art et d'histoire;Villefranche-sur-Mer;6230.0;43.701093;7.311425
+1196;muséum d'histoire naturelle;Aix-en-Provence;13090.0;43.533792;5.423327
+1197;musée municipal d'arts et traditions populaires;Cassis;13260.0;43.214464;5.540037
+1198;musée folklorique du vieux Lambesc;Lambesc;13410.0;43.651927;5.261964
+1199;musée d'archéologie méditerranéenne;Marseille;13002.0;43.300172;5.367602
+1200;musée d'art contemporain - galeries contemporaines;Marseille;13008.0;43.250815;5.389874
+1201;musée des beaux-arts;Marseille;13233.0;43.30471863787663;5.394041457684137
+1202;musée des civilisations de l'Europe et de la méditerranée;Marseille;13213.0;43.29690491040561;5.361071769324869
+1203;musée d'histoire de Marseille;Marseille;13001.0;43.298168;5.374162
+1204;musée Grobet-Labadié;Marseille;13001.0;43.303412;5.392866
+1205;musée Suffren et du vieux Saint-Cannat;Saint-Cannat;13760.0;43.621602;5.295178
+1206;musée du vieux Saint-Chamas;Saint-Chamas;13250.0;43.554245;5.072251
+1207;MHAB, musée d’histoire et d’art de Bormes;Bormes-les-Mimosas;83230.0;43.150793;6.340584
+1208;musée des troupes de marine;Fréjus;83608.0;43.47210158572287;6.721402172498896
+1209;musée municipal;Hyères;83400.0;43.119997;6.130519
+1210;musée Jean Aicard;La Garde;83000.0;43.131242;5.931994
+1211;muséum d'histoire naturelle;Toulon;83200.0;43.143305;5.910861
+1212;musée Calvet (et musée lapidaire);Avignon;84000.0;43.946985;4.803388
+1213;musée Sobirats;Carpentras;84200.0;44.054477;5.046269
+1214;synagogue musée juif comtadin;Cavaillon;84300.0;43.836842;5.038553
+1215;musée Philippe de Girard;Lourmarin;84160.0;43.76316809302446;5.3636267092803775
+1216;musée Schoelcher;Pointe-à-Pitre;97110.0;16.237697;-61.537737
+1217;musée des arts et traditions populaires de la Guyane;Cayenne;97300.0;4.94156;-52.32837
+1218;muséum d'histoire naturelle;Saint-Denis-de-la-Réunion;97400.0;-20.887712;55.451452
+1219;musée de Villèle;Saint-Gilles-les-Hauts;97435.0;-21.055917761556145;55.264409385729984
+1220;écomusée de la Martinique;Rivière-Pilote;97211.0;14.463029;-60.909569
+1221;MuMa - musée de Mayotte;Mayotte;97615.0;-12.774184;45.282721

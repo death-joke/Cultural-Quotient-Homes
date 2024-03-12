@@ -29,39 +29,39 @@ columns_to_exclude_cinema = ["regioncnc", "ndeg_auto", "adresse", "population_de
                              "pdm_en_entrees_des_films_americains", "pdm_en_entrees_des_films_europeens", "pdm_en_entrees_des_autres_films",
                              "films_art_et_essai", "pdm_en_entrees_des_films_art_et_essai", "ae"]
 
-with open('etablissements-cinematographiques.json', 'r') as f:
+with open('./cultural/etablissements-cinematographiques.json', 'r') as f:
     entities_cine = json.load(f)
 
 for entity in entities_cine:
     for key in columns_to_exclude_cinema:
         entity.pop(key)
 
-remove_duplicates_and_save(entities_cine, "cinema_intermediaire.json")
+remove_duplicates_and_save(entities_cine, "./cultural/cinema_intermediaire.json")
 
 # Traitement des bibliothèques
 columns_to_exclude_bibliotheques = ["code_bib", "surface", "amplitude_horaire", "libelle_2", "complement", "adresse", "code_region",
                                      "code_departement", "cedex", "population_commune", "longitude", "latitude", "statut",
                                      "type_adresse", "nombre_de_salaries", "nombre_de_benevoles"]
 
-with open('adresses-des-bibliotheques-publiques.json', 'r') as f2:
+with open('./cultural/adresses-des-bibliotheques-publiques.json', 'r') as f2:
     entities_bibli = json.load(f2)
 
 for entity in entities_bibli:
     for key in columns_to_exclude_bibliotheques:
         entity.pop(key)
 
-remove_duplicates_and_save(entities_bibli, "biblio_intermediaire.json")
+remove_duplicates_and_save(entities_bibli, "./cultural/biblio_intermediaire.json")
 
 # Traitement des monuments
 columns_to_exclude_monuments = ["annee", "region", "code_insee_region", "departement", "gratuit", "payant", "total", "code_insee_departement"]
 
-with open('frequentation-des-monuments-nationaux.json', 'r') as f3:
+with open('./cultural/frequentation-des-monuments-nationaux.json', 'r') as f3:
     entities_monuments = json.load(f3)
 
 for entity in entities_monuments:
     for key in columns_to_exclude_monuments:
         entity.pop(key)
 
-remove_duplicates_and_save(entities_monuments, "monuments_intermediaire.json")
+remove_duplicates_and_save(entities_monuments, "./cultural/monuments_intermediaire.json")
 
 

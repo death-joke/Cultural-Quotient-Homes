@@ -28,6 +28,10 @@
         "name": "property_value_api",
         "link": "https://api.gouv.fr/les-api/api-donnees-foncieres"
       }
+      ,{
+        "name": "geoJSON_of_french_communes",
+        "link": "https://github.com/gregoiredavid/france-geojson/"
+      }
     ]
   }
   
