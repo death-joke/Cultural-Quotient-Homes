@@ -9,7 +9,6 @@ import { GeoJsonObject } from 'geojson';
 function App() {
   return (
     <div className="App">
-      helloo
       <MapView  />
     </div>
   );
