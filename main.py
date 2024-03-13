@@ -8,6 +8,7 @@ from museums.museums import parse_data_museums
 from dvf.get_dvf import parse_data_dvf
 from cultural.parsers import parse_cultural_data
 from geo_json.geo_json import parse_geojson
+from geo_json.geo_json import parse_light_geojson
 
 
 
@@ -22,6 +23,9 @@ bibli, cine, monuments = parse_cultural_data()
 print("🚀 cultural parsed")
 geodata = parse_geojson()
 print("🚀 geoJSON parsed")
+light_geodate = parse_light_geojson()
+print("🚀 light_geoJSON parsed")
+
 
 for _, city in tqdm(dvf.iterrows(), total=len(dvf)):
     nb_schools = schools[schools['code_commune'] == city['Code INSEE']].shape[0] # OK
@@ -92,3 +96,37 @@ for feature in geodata['features']:
 #create a new geojson file with the modified properties
 with open('result.geojson', 'w', encoding='utf-8') as outfile:
     geojson.dump(geodata, outfile, ensure_ascii=False)
+
+for feature in light_geodate['features']:
+    code_insee = feature['properties']['code']
+    # get the row from the data file that has the same code_insee
+    if code_insee == "75056":
+        #make the sum of the value of the 20 arrondissements with code Insee from 75101 to 75120
+        row = data[(data['code Insee'] >= '75101') & (data['code Insee'] <= '75120')].sum()
+        ##make the mean  for the valeur foncière moyenne
+        row['Valeur foncière moyenne'] = data[(data['code Insee'] >= '75101') & (data['code Insee'] <= '75120')]['Valeur foncière moyenne'].mean()
+        #put the value Paris for the column Commune
+        row['Commune'] = "Paris"
+        #put the value 75056 for the column code Insee
+        row['code Insee'] = "75056"
+        row = pd.DataFrame([row])
+
+        print(row)
+    elif code_insee.startswith("97"):
+        row = data[data['transformed_code'] == code_insee]    
+    else :
+        row = data[data['code Insee'] == code_insee]
+        if code_insee == "01001":
+            print(row)
+    # if the row exists, add the properties to the feature
+    if not row.empty:
+        feature['properties']['Nombre d\'établissements scolaires'] = str(row['Nombre d\'établissements scolaires'].values[0])
+        feature['properties']['Nombre de musées'] = str(row['Nombre de musées'].values[0])
+        feature['properties']['Nombre de bibliotheques'] = str(row['Nombre de bibliotheques'].values[0])
+        feature['properties']['Nombre de cinemas'] = str(row['Nombre de cinemas'].values[0])
+        feature['properties']['Nombre de monuments'] = str(row['Nombre de monuments'].values[0])
+        feature['properties']['Valeur foncière moyenne'] = str(row['Valeur foncière moyenne'].values[0])
+
+#create a new geojson file with the modified properties
+with open('light_result.geojson', 'w', encoding='utf-8') as outfile:
+    geojson.dump(light_geodate, outfile, ensure_ascii=False)
