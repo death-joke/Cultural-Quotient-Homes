@@ -9,7 +9,7 @@ const MapView = () => {
   const position = [51.505, -0.09];
   const [geojsonData, setGeojsonData] = useState(null);
 const [scaleMode, setScaleMode] = useState('dvf')
-const [atualScale, setatualScale] = useState([0, 0, 0])
+const [atualScale, setatualScale] = useState([75000, 200000, 500000])
 const [dvfSCale, setdvfSCale] = useState([75000, 200000, 500000])
 const [schoolSCale, setschoolSCale] = useState([1, 5, 15])
 const [museumSCale, setmuseumSCale] = useState([0, 1, 2])
