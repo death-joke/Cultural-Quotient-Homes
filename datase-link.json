@@ -17,16 +17,12 @@
         "link": "https://data.culture.gouv.fr/explore/dataset/frequentation-dans-les-salles-de-cinema/api/?disjunctive.annee"
       },
       {
-        "name": "educational_establishment",
+        "name": "educational_establishement",
         "link": "https://www.data.gouv.fr/fr/datasets/adresse-et-geolocalisation-des-etablissements-denseignement-du-premier-et-second-degres-1/"
       },
       {
         "name": "property_value",
         "link": "https://www.data.gouv.fr/fr/datasets/demandes-de-valeurs-foncieres/"
-      },
-      {
-        "name": "property_value_api",
-        "link": "https://api.gouv.fr/les-api/api-donnees-foncieres"
       }
       ,{
         "name": "geoJSON_of_french_communes",
